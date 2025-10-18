@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.7">
   <diagram name="第 1 页" id="eztfBL7wbQVeeiexRVjI">
-    <mxGraphModel>
+    <mxGraphModel dx="1723" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="dCdVGnHf6BKHeWUjfxgT-44" target="dCdVGnHf6BKHeWUjfxgT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="550" width="1550" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="570" width="470" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="dCdVGnHf6BKHeWUjfxgT-38" target="dCdVGnHf6BKHeWUjfxgT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="570" width="470" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;" edge="1" parent="1" source="dCdVGnHf6BKHeWUjfxgT-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="470" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-29" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;一级审核：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;结构完整性与基本质量&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;审核人员：农学研究生助理&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-30" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;二级审核：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;专业适配性与科学准确性&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;审核人员：农科院研究员或副高级以上职称农林专业教师&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="597.5" width="430" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-31" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;三级审核：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;教学实用性与育人实效性&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;审核人员：省级思政名师或经验丰富的一线教师&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="585" width="430" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-32" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;检验五要素&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;明确农林人物或事件原型&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;事实信息准确（时间、地点、数据）&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;格式规范&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
+          <mxGeometry x="530" y="840" width="450" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-33" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;与专业知识点契合&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;纠正专业术语偏差&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;技术细节准确&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;补充最新农业科技进展&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="840" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-34" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;讨论题引导思考&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;思政元素解析深入&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;符合中央一号文件和国家战略&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;预判课堂问题&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#f9f7ed;strokeColor=#36393d;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="840" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-40" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 35px;&quot;&gt;正式入库&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;供教师检索使用&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;配套教学设计与讨论题&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1079.5" y="1150" width="391" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="dCdVGnHf6BKHeWUjfxgT-41" target="dCdVGnHf6BKHeWUjfxgT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCdVGnHf6BKHeWUjfxgT-41" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 35px;&quot;&gt;AI辅助生成案例初稿&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;ChatGPT/文心一言&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;结构化提示词模板→五要素格式输出&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="350" width="550" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
