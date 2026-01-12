@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="第 1 页" id="pf5L9o_sYLy4ci6uCrgc">
-    <mxGraphModel dx="862" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry height="120" width="246" x="175" y="278" as="geometry" />
         </mxCell>
         <mxCell id="top_outcome" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#10739E;strokeColor=#0E5C7E;fontColor=#FFFFFF;gradientColor=#67C0A6;gradientDirection=west;shadow=1;glass=0;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;知农爱农新型人才&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="500" x="310" y="160" as="geometry" />
+          <mxGeometry height="50" width="500" x="320" y="180" as="geometry" />
         </mxCell>
         <mxCell id="goal_left" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;glass=0;shadow=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;以劳增智&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="226" x="175" y="298" as="geometry" />
@@ -136,6 +136,15 @@
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-53" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#006633;rotation=-105;gradientColor=light-dark(#faf4f4, #ededed);flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="72.47" width="66" x="650.85" y="387.28" as="geometry" />
+        </mxCell>
+        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=9.54;dx=23.33;arrowHead=55;flipV=0;legacyAnchorPoints=0;flipH=1;direction=north;rotation=18;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="70" width="65" x="338.14" y="228.76" as="geometry" />
+        </mxCell>
+        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.58;dx=20.33;notch=0;rotation=-90;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="48" width="52" x="544" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-3" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=9.54;dx=23.33;arrowHead=55;flipV=0;legacyAnchorPoints=0;flipH=0;direction=north;rotation=-15;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="68.56" width="53.99" x="746.01" y="231.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
