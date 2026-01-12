@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="第 1 页" id="pf5L9o_sYLy4ci6uCrgc">
-    <mxGraphModel dx="1477" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="label_yuren" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;textDirection=vertical-rl;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;育人目标&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="111" width="40" x="125" y="287" as="geometry" />
         </mxCell>
-        <mxCell id="vHJLzXxsla9on9bDV1Se-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#006633;rotation=-95;gradientColor=light-dark(#f4e2e2, #ededed);" value="" vertex="1">
+        <mxCell id="vHJLzXxsla9on9bDV1Se-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#DAE8FC;rotation=-95;gradientColor=light-dark(#f4e2e2, #ededed);" value="" vertex="1">
           <mxGeometry height="46.39" width="53.45" x="288.42" y="402.43" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-10" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; color: rgb(51, 51, 51); display: inline !important;&quot;&gt;解决复杂的工程问题&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; color: rgb(51, 51, 51); display: inline !important;&quot;&gt;→具备创新思维与工程实践能力&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -68,45 +68,45 @@
           <mxGeometry height="40" width="220" x="746" y="341" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A90E2;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="130" width="770" x="185" y="620" as="geometry" />
+          <mxGeometry height="130" width="770" x="185" y="610" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;strokeColor=#0057D8;fontColor=#ffffff;glass=0;shadow=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;基于逆向工程与OBE逻辑&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="770" x="185" y="610" as="geometry" />
+          <mxGeometry height="50" width="770" x="185" y="600" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智慧农业产业需求&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;新质生产力岗位标准&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="157.95" x="226" y="670" as="geometry" />
+          <mxGeometry height="60" width="157.95" x="226" y="660" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;能力解构（能力图谱）&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="484" y="670" as="geometry" />
+          <mxGeometry height="60" width="160" x="484" y="660" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;高阶劳动实训项目&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="750" y="670" as="geometry" />
+          <mxGeometry height="60" width="130" x="750" y="660" as="geometry" />
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-30" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f0e0e0, #5c79a3);strokeColor=none;fontColor=#23445D;labelBackgroundColor=none;fontSize=10;gradientColor=#7EA6E0;gradientDirection=east;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;逆向工程&lt;/font&gt;">
           <mxGeometry height="50" relative="1" width="50" y="20" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="395.99999999999994" y="699.6600000000001" as="sourcePoint" />
-            <mxPoint x="476" y="699.6600000000001" as="targetPoint" />
+            <mxPoint x="395.99999999999994" y="689.6600000000001" as="sourcePoint" />
+            <mxPoint x="476" y="689.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f0e0e0, #5c79a3);strokeColor=none;fontColor=#23445D;labelBackgroundColor=none;fontSize=10;gradientColor=#7EA6E0;gradientDirection=east;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;反推教学内容&lt;/font&gt;">
           <mxGeometry height="50" relative="1" width="50" y="20" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="650" y="699.6600000000001" as="sourcePoint" />
-            <mxPoint x="730" y="699.6600000000001" as="targetPoint" />
+            <mxPoint x="650" y="689.6600000000001" as="sourcePoint" />
+            <mxPoint x="730" y="689.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f8f6f6, #5c79a3);strokeColor=none;fontColor=#23445D;labelBackgroundColor=none;fontSize=10;gradientColor=#7EA6E0;gradientDirection=north;entryX=0.493;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=52.41379310344828;endSize=6.03448275862069;width=34.71264367816092;" value="">
           <mxGeometry height="50" relative="1" width="50" y="20" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="766" y="610" as="sourcePoint" />
+            <mxPoint x="766" y="600" as="sourcePoint" />
             <mxPoint x="766" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vHJLzXxsla9on9bDV1Se-35" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#f8f6f6, #5c79a3);strokeColor=none;fontColor=#23445D;labelBackgroundColor=none;fontSize=10;gradientColor=#7EA6E0;gradientDirection=north;entryX=0.493;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=52.41379310344828;endSize=6.03448275862069;width=34.71264367816092;" value="">
           <mxGeometry height="50" relative="1" width="50" y="20" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="370" y="610" as="sourcePoint" />
+            <mxPoint x="370" y="600" as="sourcePoint" />
             <mxPoint x="370" y="552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -128,23 +128,23 @@
             <mxPoint x="695" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHJLzXxsla9on9bDV1Se-51" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#006633;rotation=-75;gradientColor=light-dark(#faf4f4, #ededed);flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="78.82" width="67.42" x="424.91" y="385.41" as="geometry" />
+        <mxCell id="vHJLzXxsla9on9bDV1Se-51" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=5.47;dx=18.73;arrowHead=31.31;strokeColor=#006633;fillColor=#DAE8FC;rotation=-75;gradientColor=light-dark(#faf4f4, #ededed);flipV=1;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="42.74" width="54" x="432.46" y="401.72" as="geometry" />
         </mxCell>
-        <mxCell id="vHJLzXxsla9on9bDV1Se-52" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#006633;rotation=-75;gradientColor=light-dark(#f4e2e2, #ededed);flipH=0;legacyAnchorPoints=0;flipV=1;" value="" vertex="1">
-          <mxGeometry height="62.39" width="63.45" x="825.98" y="390.76" as="geometry" />
+        <mxCell id="vHJLzXxsla9on9bDV1Se-52" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=5.42;dx=21.1;arrowHead=31.31;strokeColor=#006633;fillColor=#DAE8FC;rotation=-75;gradientColor=light-dark(#f4e2e2, #ededed);flipH=0;legacyAnchorPoints=0;flipV=1;" value="" vertex="1">
+          <mxGeometry height="43.39" width="54.73" x="825.94" y="398.75" as="geometry" />
         </mxCell>
-        <mxCell id="vHJLzXxsla9on9bDV1Se-53" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=4.87;dx=23.21;arrowHead=31.31;strokeColor=#006633;fillColor=#006633;rotation=-105;gradientColor=light-dark(#faf4f4, #ededed);flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="72.47" width="66" x="650.85" y="387.28" as="geometry" />
-        </mxCell>
-        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=9.54;dx=23.33;arrowHead=55;flipV=0;legacyAnchorPoints=0;flipH=1;direction=north;rotation=18;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
-          <mxGeometry height="70" width="65" x="338.14" y="228.76" as="geometry" />
+        <mxCell id="vHJLzXxsla9on9bDV1Se-53" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=7.06;dx=18.69;arrowHead=31.31;strokeColor=#006633;fillColor=#DAE8FC;rotation=-105;gradientColor=light-dark(#faf4f4, #ededed);flipV=0;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="50.61" width="59" x="665.04" y="399.77" as="geometry" />
         </mxCell>
         <mxCell id="CBATQ-tuPLJ_WbGa5JX3-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.58;dx=20.33;notch=0;rotation=-90;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
           <mxGeometry height="48" width="52" x="544" y="239" as="geometry" />
         </mxCell>
-        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-3" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=9.54;dx=23.33;arrowHead=55;flipV=0;legacyAnchorPoints=0;flipH=0;direction=north;rotation=-15;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
-          <mxGeometry height="68.56" width="53.99" x="746.01" y="231.44" as="geometry" />
+        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.58;dx=20.33;notch=0;rotation=-90;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="48" width="52" x="331.95" y="239" as="geometry" />
+        </mxCell>
+        <mxCell id="CBATQ-tuPLJ_WbGa5JX3-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.58;dx=20.33;notch=0;rotation=-90;gradientColor=#67C0A6;gradientDirection=east;strokeColor=default;strokeWidth=0.5;" value="" vertex="1">
+          <mxGeometry height="48" width="52" x="750" y="239" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
