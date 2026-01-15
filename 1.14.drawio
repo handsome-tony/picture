@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="第 1 页" id="sVilXqgA213Iphahl9cL">
-    <mxGraphModel dx="862" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="right_frame" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#008a00;strokeWidth=2;dashed=1;arcSize=5;" value="" vertex="1">
+        <mxCell id="right_frame" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;arcSize=5;" value="" vertex="1">
           <mxGeometry height="350" width="380" x="475" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#0050EF;" value="数智化农林劳动教育全链条育人模式" vertex="1">
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#0050EF;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;数智化农林劳动教育全链条育人模式&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="480" x="232" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="left_frame" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0050EF;strokeWidth=2;dashed=1;arcSize=5;" value="" vertex="1">
+        <mxCell id="left_frame" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=2;dashed=1;arcSize=5;" value="" vertex="1">
           <mxGeometry height="350" width="370" x="80" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="left_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=1;fontSize=16;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;课程重构阶段（以劳提能）&lt;/font&gt;" vertex="1">
+        <mxCell id="left_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;课程重构阶段（以劳提能）&lt;/font&gt;" vertex="1">
           <mxGeometry height="35" width="280" x="120" y="65" as="geometry" />
         </mxCell>
         <mxCell id="lbl_input" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入&lt;/font&gt;" vertex="1">
@@ -25,22 +25,22 @@
         <mxCell id="lbl_output" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输出&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="60" y="291" as="geometry" />
         </mxCell>
-        <mxCell id="node_req" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#0050EF;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#0050EF;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;智慧农业产业需求&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;新质生产力岗位标准&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="node_req" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#0050EF;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;智慧农业产业需求&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;新质生产力岗位标准&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="190" x="170" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="node_graph" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;能力素养图谱&lt;/font&gt;" vertex="1">
+        <mxCell id="node_graph" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;能力素养图谱&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="190" x="170" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="node_proj" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;strokeColor=#001DBC;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;高阶劳动实训项目&lt;/font&gt;" vertex="1">
+        <mxCell id="node_proj" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;高阶劳动实训项目&lt;/font&gt;" vertex="1">
           <mxGeometry height="37" width="190" x="170" y="291" as="geometry" />
         </mxCell>
-        <mxCell id="node_desc_left" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050EF;strokeColor=#001DBC;fontStyle=1;fontSize=13;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;以劳提能：解决复杂工程问题&lt;/font&gt;" vertex="1">
+        <mxCell id="node_desc_left" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontStyle=1;fontSize=13;fontColor=#ffffff;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;以劳提能：解决复杂工程问题&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="300" x="110" y="361" as="geometry" />
         </mxCell>
-        <mxCell id="arrow_1" edge="1" parent="1" source="node_req" style="style=edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0050EF;strokeWidth=3;fillColor=#0050EF;" target="node_graph" value="">
+        <mxCell id="arrow_1" edge="1" parent="1" source="node_req" style="style=edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=3;fillColor=#0050EF;" target="node_graph" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow_reverse" edge="1" parent="1" source="node_graph" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;strokeColor=#0050EF;strokeWidth=3;fontSize=12;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.002;entryDx=0;entryDy=0;fillColor=#0050EF;entryPerimeter=0;" target="node_proj" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;逆向反推&lt;/font&gt;">
+        <mxCell id="arrow_reverse" edge="1" parent="1" source="node_graph" style="edgeStyle=orthogonalEdgeStyle;curved=1;html=1;strokeColor=#000000;strokeWidth=3;fontSize=12;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.96;entryY=0.002;entryDx=0;entryDy=0;fillColor=#0050EF;entryPerimeter=0;" target="node_proj" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;逆向反推&lt;/font&gt;">
           <mxGeometry relative="1" x="-0.0032" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -51,40 +51,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="big_arrow" parent="1" style="shape=arrow;whiteSpace=wrap;html=1;fillColor=#0050EF;gradientColor=#60a917;gradientDirection=east;strokeColor=none;" value="" vertex="1">
+        <mxCell id="big_arrow" parent="1" style="shape=arrow;whiteSpace=wrap;html=1;fillColor=#0050EF;gradientColor=#60a917;gradientDirection=east;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="30" width="260" x="380" y="325" as="geometry" />
         </mxCell>
-        <mxCell id="right_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" value="智能教学阶段（以劳培德/增智）" vertex="1">
+        <mxCell id="right_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#ffffff;fontStyle=1;fontSize=16;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;智能教学阶段（以劳培德/增智）&lt;/font&gt;" vertex="1">
           <mxGeometry height="35" width="300" x="505" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="db_know" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontStyle=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;专业知识图谱&lt;/font&gt;" vertex="1">
+        <mxCell id="db_know" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=default;strokeColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;专业知识图谱&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="515" y="117" as="geometry" />
         </mxCell>
-        <mxCell id="db_value" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontStyle=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;价值语料库&lt;/font&gt;" vertex="1">
+        <mxCell id="db_value" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=default;strokeColor=#000000;fontColor=#ffffff;fontStyle=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;价值语料库&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="695" y="117" as="geometry" />
         </mxCell>
-        <mxCell id="node_rag" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;gradientColor=#60a917;gradientDirection=east;fontStyle=1;fontSize=14;fontColor=#ffffff;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RAG智能伴学系统&lt;/font&gt;" vertex="1">
+        <mxCell id="node_rag" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;gradientColor=#60a917;gradientDirection=east;fontStyle=1;fontSize=14;fontColor=#ffffff;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;RAG智能伴学模型&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="585" y="206" as="geometry" />
         </mxCell>
-        <mxCell id="node_scene" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1;fontSize=16;fontColor=#ffffff;verticalAlign=bottom;spacingBottom=10;" value="田间劳动现场" vertex="1">
+        <mxCell id="node_scene" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontStyle=1;fontSize=16;fontColor=#ffffff;verticalAlign=bottom;spacingBottom=10;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;田间劳动教学场域&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="585" y="277" as="geometry" />
         </mxCell>
-        <mxCell id="icon_farmer" parent="1" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#b09500;" value="" vertex="1">
-          <mxGeometry height="25.5" width="20" x="712" y="289.25" as="geometry" />
-        </mxCell>
-        <mxCell id="out_sci" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#1ba1e2;strokeWidth=2;fontStyle=1;fontSize=13;fontColor=#0050EF;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;科学原理即时解析&lt;/font&gt;" vertex="1">
+        <mxCell id="out_sci" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontSize=13;fontColor=#0050EF;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;科学原理即时解析&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="485" y="353" as="geometry" />
         </mxCell>
-        <mxCell id="out_val" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#60a917;strokeWidth=2;fontStyle=1;fontSize=13;fontColor=#008a00;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;科学家精神/文化叙事&lt;/font&gt;" vertex="1">
+        <mxCell id="out_val" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;fontSize=13;fontColor=#008a00;" value="&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0);&quot;&gt;科学家精神/文化叙事&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="687.5" y="353" as="geometry" />
         </mxCell>
-        <mxCell id="lbl_zengzhi" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;以劳增智&lt;/font&gt;" vertex="1">
+        <mxCell id="lbl_zengzhi" parent="1" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;以劳增智&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="100" x="505" y="399" as="geometry" />
         </mxCell>
-        <mxCell id="lbl_peide" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;以劳培德&lt;/font&gt;" vertex="1">
+        <mxCell id="lbl_peide" parent="1" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;以劳培德&lt;/font&gt;" vertex="1">
           <mxGeometry height="20" width="85" x="735" y="399" as="geometry" />
         </mxCell>
-        <mxCell id="link_db1" edge="1" parent="1" source="db_know" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=0.01;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;entryPerimeter=0;endSize=3;" target="node_rag" value="">
+        <mxCell id="link_db1" edge="1" parent="1" source="db_know" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=0.01;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000000;entryPerimeter=0;endSize=3;" target="node_rag" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="565" y="190" />
@@ -92,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="link_db2" edge="1" parent="1" source="db_value" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.799;entryY=0.024;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#60a917;entryPerimeter=0;endSize=3;" target="node_rag" value="">
+        <mxCell id="link_db2" edge="1" parent="1" source="db_value" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.799;entryY=0.024;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000000;entryPerimeter=0;endSize=3;" target="node_rag" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="745" y="190" />
@@ -100,17 +97,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="link_bi" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#006EAF;startSize=3;endSize=3;" target="node_scene" value="">
+        <mxCell id="link_bi" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#000000;startSize=3;endSize=3;" target="node_scene" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="link_out1" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1ba1e2;endSize=3;" target="out_sci" value="">
+        <mxCell id="link_out1" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000000;endSize=3;" target="out_sci" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="237" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="link_out2" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=-0.002;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#60a917;entryPerimeter=0;endSize=3;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="out_val" value="">
+        <mxCell id="link_out2" edge="1" parent="1" source="node_rag" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.516;entryY=-0.002;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#000000;entryPerimeter=0;endSize=3;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="out_val" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="236" />
@@ -119,7 +116,7 @@
             <mxPoint x="767.5" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gj8lMZZzIc97wAEHzRLW-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endWidth=35.714285714285715;endSize=10.519047619047619;width=12.857142857142856;fillColor=#0050EF;gradientColor=#60A917;gradientDirection=east;" value="">
+        <mxCell id="Gj8lMZZzIc97wAEHzRLW-1" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endWidth=35.714285714285715;endSize=10.519047619047619;width=12.857142857142856;fillColor=default;gradientColor=none;gradientDirection=east;strokeColor=#000000;strokeWidth=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="378" y="311" as="sourcePoint" />
             <mxPoint x="577" y="310.5" as="targetPoint" />
