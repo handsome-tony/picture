@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
+  <diagram id="gBc8qhgz-M_1AP69Fkxd" name="第 1 页">
+    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="top_container" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;spacingTop=10;arcSize=5;" value="&lt;b&gt;研究产出层 (Research Outcomes)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="120" width="760" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="top_box" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;fontColor=#000000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;AI赋能的新农科劳动教育模式研究报告&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="680" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="left_container" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F7FD;strokeColor=#1A3B5C;strokeWidth=2;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="340" width="360" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="left_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;课程生成逻辑&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="left_box_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="多源数据挖掘" vertex="1">
+          <mxGeometry height="40" width="320" x="60" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="left_box_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="特征提取与专家赋权" vertex="1">
+          <mxGeometry height="40" width="320" x="60" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="left_box_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="能力素养图谱构建" vertex="1">
+          <mxGeometry height="40" width="320" x="60" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="left_box_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="实训项目逆向设计" vertex="1">
+          <mxGeometry height="40" width="320" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="la1" edge="1" parent="1" source="left_box_1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="left_box_2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="la2" edge="1" parent="1" source="left_box_2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="left_box_3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="la3" edge="1" parent="1" source="left_box_3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="left_box_4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="right_container" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F7FD;strokeColor=#1A3B5C;strokeWidth=2;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="340" width="360" x="440" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="right_header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;交互机制逻辑&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="440" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="right_box_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="知识与价值库" vertex="1">
+          <mxGeometry height="40" width="320" x="460" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="right_box_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="关联规则建模" vertex="1">
+          <mxGeometry height="40" width="320" x="460" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="right_box_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="RAG检索增强设计" vertex="1">
+          <mxGeometry height="40" width="320" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="right_box_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1A3B5C;" value="交互范式指南生成" vertex="1">
+          <mxGeometry height="40" width="320" x="460" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ra1" edge="1" parent="1" source="right_box_1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="right_box_2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ra2" edge="1" parent="1" source="right_box_2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="right_box_3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ra3" edge="1" parent="1" source="right_box_3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#1A3B5C;strokeWidth=2;" target="right_box_4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bottom_container" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F3FC;strokeColor=#1A3B5C;strokeWidth=2;verticalAlign=top;spacingTop=10;arcSize=5;" value="&lt;b&gt;研究基础层 (Research Foundation)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="760" x="40" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="bottom_box_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#404040;strokeWidth=2;" value="理论支撑 (OBE/情境学习)" vertex="1">
+          <mxGeometry height="40" width="220" x="60" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="bottom_box_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#404040;strokeWidth=2;" value="分析工具 (LDA/Neo4j)" vertex="1">
+          <mxGeometry height="40" width="220" x="310" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="bottom_box_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#404040;strokeWidth=2;" value="多源数据 (产业/政策/文化)" vertex="1">
+          <mxGeometry height="40" width="220" x="560" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="conn_up_1" edge="1" parent="1" source="bottom_container" style="endArrow=classic;html=1;rounded=0;strokeColor=#1A3B5C;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="left_container" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="560" />
+              <mxPoint x="220" y="560" />
+            </Array>
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="220" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn_up_2" edge="1" parent="1" source="bottom_container" style="endArrow=classic;html=1;rounded=0;strokeColor=#1A3B5C;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="right_container" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="560" />
+              <mxPoint x="620" y="560" />
+            </Array>
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn_final_1" edge="1" parent="1" source="left_container" style="endArrow=classic;html=1;rounded=0;strokeColor=#1A3B5C;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="top_container" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="180" />
+              <mxPoint x="420" y="180" />
+            </Array>
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="conn_final_2" edge="1" parent="1" source="right_container" style="endArrow=classic;html=1;rounded=0;strokeColor=#1A3B5C;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="top_container" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="180" />
+              <mxPoint x="420" y="180" />
+            </Array>
+            <mxPoint x="620" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
