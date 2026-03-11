@@ -1,0 +1,236 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.3.6">
+  <diagram name="第 1 页" id="SVKMau693xqWsVPCuqai">
+    <mxGraphModel dx="544" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontFamily=SimHei, sans-serif;" value="面向柑橘苗木低损伤热处理的微波腔体电磁场分布表征与驻波抑制机制研究技术路线图" vertex="1">
+          <mxGeometry height="40" width="1130" x="170" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="label1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="研究基础与&lt;br&gt;问题提出" vertex="1">
+          <mxGeometry height="140" width="130" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="label2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="研究目标与&lt;br&gt;边界界定" vertex="1">
+          <mxGeometry height="130" width="130" x="20" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="label3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="研究内容" vertex="1">
+          <mxGeometry height="200" width="130" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="label4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="技术方法与&lt;br&gt;实施路径" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="label5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="实验验证与&lt;br&gt;结果分析" vertex="1">
+          <mxGeometry height="190" width="130" x="20" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_H1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="前期研究基础" vertex="1">
+          <mxGeometry height="30" width="360" x="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_B1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;arcSize=12;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已建立柑橘苗木微波热处理三维模型&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已完成电磁-热耦合仿真模型验证&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已反演叶片、枝干介电参数&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已筛选最优腔体结构：球体腔体+4个磁控管+侧面均匀分布&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已证明150–450 W范围内模型可靠&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="360" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_H2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="核心科学问题" vertex="1">
+          <mxGeometry height="30" width="350" x="560" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_B2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;电磁场不均如何演化为局部热点与热损伤？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;驻波在最优腔体中如何形成与分布？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;如何在不改变总体最优结构前提下进一步抑制驻波、降低热损伤？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="350" x="560" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_H3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="现有不足" vertex="1">
+          <mxGeometry height="30" width="360" x="940" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_B3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;已回答“哪种结构更优”&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;尚未系统揭示电磁场分布规律&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;尚未明确驻波形成与热点迁移机制&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;尚未建立电磁场指标与热损伤之间的定量联系&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;尚缺少面向现有装置的驻波抑制方案&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="360" x="940" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L2_H1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="研究目标" vertex="1">
+          <mxGeometry height="30" width="500" x="170" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="L2_B1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;构建微波腔体电磁场评价指标体系&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;揭示电场热点—吸收功率密度热点—温度热点的传递关系&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;解析驻波形成机理及其对温度均匀性的影响&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;提出可实施的驻波抑制策略&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;为柑橘苗木低损伤微波热处理设备优化提供依据&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="L2_H2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C00000;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="研究边界" vertex="1">
+          <mxGeometry height="30" width="600" x="700" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="L2_B2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAECEC;strokeColor=#C00000;strokeWidth=2;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;仅研究150–450 W已验证功率范围&lt;/li&gt;&lt;li&gt;以“球体腔体 + 4个磁控管 + 侧面均匀分布”为基线结构&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;color:#C00000;font-size:13px;&quot;&gt;重点变量仅限：波导口耦合方向、转盘速度&lt;/b&gt;&lt;/li&gt;&lt;li&gt;不展开高功率非线性问题 / 不展开动态介电参数&lt;/li&gt;&lt;li&gt;不展开细观组织异质性建模 / 不展开磁控管相位控制和大规模硬件改造&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="600" x="700" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_H1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;研究内容一&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;font-weight:normal;&quot;&gt;基线模型继承与电磁场后处理建立&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="210" x="170" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_B1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;glass=0;shadow=0;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;继承前期已验证三维模型与材料参数&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;保持最优腔体结构为基线&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;构建适用于电磁场分析的后处理流程&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;提取电场强度、吸收功率密度等空间分布信息&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="155" width="210" x="170" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_H2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;研究内容二&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;font-weight:normal;&quot;&gt;电磁场均匀性评价指标构建&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="200" x="400" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_B2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;电场强度均值&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;电场强度标准差&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;电场强度变异系数&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;高场区体积分数&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;吸收功率密度分布指标&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;驻波指数构建&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="155" width="200" x="400" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_H3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;研究内容三&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;font-weight:normal;&quot;&gt;热点映射关系分析&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="210" x="620" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_B3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分析电场热点分布&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分析吸收功率密度热点分布&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分析温度热点与热损伤区域&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;建立“电磁场—功率沉积—温度—热损伤”映射链条&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="155" width="210" x="620" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_H4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;研究内容四&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;font-weight:normal;&quot;&gt;驻波抑制策略研究&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="210" x="850" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_B4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;变量1：波导口耦合方向优化&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;变量2：转盘速度调控&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分析不同工况下驻波分布变化&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;评价其对电磁场均匀性和温度均匀性的改善作用&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="155" width="210" x="850" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_H5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;研究内容五&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px;font-weight:normal;&quot;&gt;优化方案筛选与验证&lt;/span&gt;" vertex="1">
+          <mxGeometry height="45" width="220" x="1080" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L3_B5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;综合评价最优参数组合&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;对比优化前后热点分布差异&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;分析热损伤率变化&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;形成低损伤优化方案&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="155" width="220" x="1080" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="文献分析与理论梳理" vertex="1">
+          <mxGeometry height="40" width="160" x="170" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="COMSOL电磁-热耦合建模" vertex="1">
+          <mxGeometry height="40" width="170" x="360" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="参数化仿真与场分布后处理" vertex="1">
+          <mxGeometry height="40" width="170" x="560" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="多指标综合评价" vertex="1">
+          <mxGeometry height="40" width="160" x="760" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="对比分析与机制解释" vertex="1">
+          <mxGeometry height="40" width="160" x="950" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L4_B6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="仿真结果筛选优化方案" vertex="1">
+          <mxGeometry height="40" width="160" x="1140" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L5_H1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="实验验证" vertex="1">
+          <mxGeometry height="30" width="530" x="170" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L5_B1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;整株柑橘苗木多点测温&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;顶端、中部、底部及冠层测点布设&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;对比优化前后温度分布&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;必要时结合表面热像辅助分析&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="530" x="170" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="L5_H2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="结果分析" vertex="1">
+          <mxGeometry height="30" width="570" x="730" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L5_B2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;ul style=&quot;margin:0px;padding-left:24px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;验证温度均匀性改善效果&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;验证热点迁移规律是否与仿真一致&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;验证热损伤是否降低&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;评估驻波抑制方案的有效性&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="80" width="570" x="730" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="L5_Footer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#537A9F;strokeColor=none;fontColor=#ffffff;fontSize=13;align=center;verticalAlign=middle;" value="&lt;b style=&quot;font-size:14px;&quot;&gt;形成机理认知&lt;/b&gt;&lt;br&gt;揭示“结构/端口条件 → 电磁场分布 → 吸收功率沉积 → 温度热点形成 → 热损伤变化”的作用机制" vertex="1">
+          <mxGeometry height="45" width="1130" x="170" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L1_1" edge="1" parent="1" source="L1_B1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L1_B2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L1_2" edge="1" parent="1" source="L1_B3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L1_B2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L1_L2_A" edge="1" parent="1" source="L1_B2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L2_H1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="230" />
+              <mxPoint x="420" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L1_L2_B" edge="1" parent="1" source="L1_B2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L2_H2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="230" />
+              <mxPoint x="1000" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L3_1" edge="1" parent="1" source="L3_B1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L3_B2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L3_2" edge="1" parent="1" source="L3_B2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L3_B3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L3_3" edge="1" parent="1" source="L3_B3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L3_B4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L3_4" edge="1" parent="1" source="L3_B4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="L3_B5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L3_L4_1" edge="1" parent="1" source="L3_B1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;" target="L4_B1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="600" />
+              <mxPoint x="250" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L3_L4_2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="600" />
+              <mxPoint x="460" y="600" />
+            </Array>
+            <mxPoint x="460" y="590" as="sourcePoint" />
+            <mxPoint x="460" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L3_L4_3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="600" />
+              <mxPoint x="680" y="600" />
+            </Array>
+            <mxPoint x="680.0000000000001" y="590.0000000000001" as="sourcePoint" />
+            <mxPoint x="680.0000000000001" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L3_L4_4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1014.91" y="600" />
+              <mxPoint x="1014.91" y="600" />
+            </Array>
+            <mxPoint x="1014.91" y="590" as="sourcePoint" />
+            <mxPoint x="1014.91" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L3_L4_5" edge="1" parent="1" source="L3_B5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;" target="L4_B6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="600" />
+              <mxPoint x="1220" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_L4_1" edge="1" parent="1" source="L4_B1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="L4_B2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L4_2" edge="1" parent="1" source="L4_B2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="L4_B3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L4_3" edge="1" parent="1" source="L4_B3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="L4_B4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L4_4" edge="1" parent="1" source="L4_B4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="L4_B5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L4_5" edge="1" parent="1" source="L4_B5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="L4_B6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_L5_Footer1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L5_Footer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="790" />
+              <mxPoint x="735" y="790" />
+            </Array>
+            <mxPoint x="435" y="780" as="sourcePoint" />
+            <mxPoint x="735" y="803" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfAMkCqfxHT1jFCpCcMW-2" edge="1" parent="1" source="L5_B2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;exitX=0.421;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L5_Footer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="790" />
+              <mxPoint x="735" y="790" />
+            </Array>
+            <mxPoint x="855" y="773" as="sourcePoint" />
+            <mxPoint x="735" y="803" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
