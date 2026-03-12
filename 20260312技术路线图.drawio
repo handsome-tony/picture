@@ -19,7 +19,7 @@
         <mxCell id="dejLF14Mv_5d38B0jCep-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术方法与&lt;br&gt;实施路径&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="430" y="735" as="geometry" />
         </mxCell>
-        <mxCell id="dejLF14Mv_5d38B0jCep-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;实验验证与&lt;br&gt;结果分析&lt;/font&gt;" vertex="1">
+        <mxCell id="dejLF14Mv_5d38B0jCep-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;验证分析与&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;结果形成&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="130" x="430" y="810" as="geometry" />
         </mxCell>
         <mxCell id="dejLF14Mv_5d38B0jCep-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前期研究基础&lt;/font&gt;" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="dejLF14Mv_5d38B0jCep-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="350" x="648" y="420" as="geometry" />
         </mxCell>
-        <mxCell id="dejLF14Mv_5d38B0jCep-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C00000;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究边界&lt;/font&gt;" vertex="1">
+        <mxCell id="dejLF14Mv_5d38B0jCep-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C00000;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究范围与条件限定&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="369" x="1052" y="390" as="geometry" />
         </mxCell>
         <mxCell id="dejLF14Mv_5d38B0jCep-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAECEC;strokeColor=#C00000;strokeWidth=2;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
