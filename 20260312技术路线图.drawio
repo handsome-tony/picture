@@ -1,9 +1,289 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="dU91TLlrdaLvq15Gtgd_">
-    <mxGraphModel>
+    <mxGraphModel dx="1477" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dejLF14Mv_5d38B0jCep-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontFamily=SimHei, sans-serif;" value="柑橘苗木低损伤微波热处理参数组合优化及电磁-热作用机制技术路线图" vertex="1">
+          <mxGeometry height="40" width="1130" x="540" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究基础与&lt;br&gt;问题提出&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="430" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究目标与&lt;br&gt;边界界定&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="130" x="430" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究内容&lt;/font&gt;" vertex="1">
+          <mxGeometry height="170" width="130" x="430" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;技术方法与&lt;br&gt;实施路径&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="430" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2B5079;strokeColor=none;fontColor=#ffffff;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;实验验证与&lt;br&gt;结果分析&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="130" x="430" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前期研究基础&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="580" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;arcSize=12;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="580" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拟解决问题&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="306" x="894" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="306" x="894" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-72" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dejLF14Mv_5d38B0jCep-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;现有不足&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="361" x="1228" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="361" x="1228" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究目标&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="648" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="350" x="648" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C00000;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;研究边界&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="369" x="1052" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAECEC;strokeColor=#C00000;strokeWidth=2;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="369" x="1052" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究内容一&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;基线模型继承&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;与参数边界确定&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="190" x="570" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;glass=0;shadow=0;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="190" x="570" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究内容二&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;关键工艺参数单因素影响规律研究&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="200" x="780" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="200" x="780" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究内容三&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;关键工艺参数组合优化研究&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="219" x="1003" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="219" x="1003" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究内容四&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;代表性工况验证与综合评价&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="232" x="1240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="232" x="1241" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;align=center;arcSize=15;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究内容五&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;电磁-热作用机制与参数适用边界分析&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="214" x="1496" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=5;spacingRight=5;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126" width="214" x="1496" y="594" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="130" x="569" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="" vertex="1">
+          <mxGeometry height="40" width="164" x="726" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="单因素参数化仿真分析" vertex="1">
+          <mxGeometry height="40" width="170" x="916" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="正交试验设计与多指标综合评价" vertex="1">
+          <mxGeometry height="40" width="189" x="1110" y="746" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="代表性工况筛选与验证分析" vertex="1">
+          <mxGeometry height="40" width="160" x="1317" y="746" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#C00000;strokeWidth=2;dashed=1;fontColor=#C00000;fontSize=13;fontStyle=1;align=center;" value="电磁-热联合后处理与机制解释" vertex="1">
+          <mxGeometry height="40" width="193" x="1514" y="746" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;代表性工况验证&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="335" x="585" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="335" x="585" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#366092;strokeColor=none;fontColor=#ffffff;fontSize=14;fontStyle=1;align=center;arcSize=20;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;机制解释与综合评价&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="318" x="982" y="808" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F8;strokeColor=#366092;fontColor=#000000;fontSize=12;align=left;verticalAlign=top;spacingTop=5;spacingLeft=10;spacingRight=10;" value="&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="318" x="982" y="838" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#537A9F;strokeColor=none;fontColor=#ffffff;fontSize=13;align=center;verticalAlign=middle;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;形成适宜参数组合建议&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;阐明参数组合影响低损伤热处理效果的电磁-热作用机制，为现有设备运行参数设定和工艺优化提供依据&lt;/font&gt;" vertex="1">
+          <mxGeometry height="63" width="670" x="592" y="946" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-38" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-39" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-40" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;entryX=0.508;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;endSize=3;" target="dejLF14Mv_5d38B0jCep-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="380" />
+              <mxPoint x="826" y="380" />
+              <mxPoint x="826" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-41" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;endSize=3;" target="dejLF14Mv_5d38B0jCep-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="380" />
+              <mxPoint x="1230" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-42" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;exitX=0.998;exitY=0.614;exitDx=0;exitDy=0;exitPerimeter=0;endSize=2;" target="dejLF14Mv_5d38B0jCep-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="650" />
+              <mxPoint x="780" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-43" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;endSize=2;" target="dejLF14Mv_5d38B0jCep-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-44" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;endSize=2;" target="dejLF14Mv_5d38B0jCep-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-46" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="730" />
+              <mxPoint x="665" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-48" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;entryX=0.695;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1163" y="720" />
+            </Array>
+            <mxPoint x="1169" y="720" as="sourcePoint" />
+            <mxPoint x="1163.1499999999999" y="744.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-49" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;entryX=0.29;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.527;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" target="dejLF14Mv_5d38B0jCep-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1363" y="730" />
+              <mxPoint x="1363" y="730" />
+            </Array>
+            <mxPoint x="1320" y="720" as="sourcePoint" />
+            <mxPoint x="1320" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-50" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;exitX=0.625;exitY=0.998;exitDx=0;exitDy=0;entryX=0.602;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="dejLF14Mv_5d38B0jCep-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1502.12" y="682" as="sourcePoint" />
+            <mxPoint x="1501.8799999999999" y="730.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-51" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-52" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-53" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-54" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-55" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#C00000;strokeWidth=2;endArrow=block;endFill=1;" target="dejLF14Mv_5d38B0jCep-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;endSize=2;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="920" />
+              <mxPoint x="770" y="930" />
+              <mxPoint x="927" y="930" />
+            </Array>
+            <mxPoint x="770" y="920" as="sourcePoint" />
+            <mxPoint x="927" y="945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-57" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;exitX=0.421;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endSize=2;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1096" y="930" />
+              <mxPoint x="927" y="930" />
+            </Array>
+            <mxPoint x="1095.6699999999998" y="918" as="sourcePoint" />
+            <mxPoint x="927" y="945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-58" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;已建立柑橘苗木微波热处理三维模型&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;已完成电磁-热耦合仿真模型验证&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;已反演叶片、枝干介电参数&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;已筛选最优腔体结构：球体腔体+4个磁控管+侧面均匀分布&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;已证明150–450 W范围内模型可靠&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="275" x="582.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-59" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;在既有优选结构条件下，微波功率、转盘转速和加热时间如何协同作用于低损伤热处理效果？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;如何筛选兼顾升温效率、温度均匀性与热损伤控制的适宜参数组合？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;不同参数组合影响局部过热与热损伤形成的电磁-热作用机制是什么？&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="305" x="892" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-60" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;前期研究已回答“优选结构为何更适用”这一结构层面问题&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;但尚缺乏在优选结构条件下对关键工艺参数协同作用的系统研究&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;参数组合优化与低损伤热处理效果之间的机制联系仍不够清晰&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;尚未形成面向现有设备条件的参数建议与适用边界分析&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="351" x="1228" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-61" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;明确微波功率、转盘转速和加热时间对温度均匀性及热损伤风险的影响规律&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;采用单因素分析与正交试验筛选适宜参数组合&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;基于电场分布、吸收功率密度和温度热点演化解释参数组合差异&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;形成面向现有设备条件的参数建议&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="65" width="355" x="643" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-62" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;研究对象限定于前期优选结构：球体腔体 + 4个磁控管 + 侧面均匀分布&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;功率范围限定为前期已验证的150–450 W&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;研究变量聚焦于微波功率、转盘转速和加热时间&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;不再开展大范围腔体结构重筛选&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;不涉及动态介电常数、相位控制及复杂硬件改造&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="349" x="1052" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-63" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 20px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;继承前期已验证三维模型、介电参数和电磁-热耦合框架&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;固定优选结构作为基线结构&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;明确研究功率范围与关键参数边界&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;建立参数分析与结果后处理流程&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="570" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-64" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 20px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;以微波功率、转盘转速和加热时间为研究因素&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;分析不同参数变化对温度场分布和温度均匀性的影响&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;比较温度标准差、温度变异系数、最大温差和热损伤风险&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;明确各因素作用趋势与合理水平范围&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="52.5" width="193" x="779" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-65" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 20px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;构建三因素三水平正交试验方案&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;系统比较不同参数组合下的升温行为、温度均匀性和热损伤风险&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;采用综合评分、极差分析和方差分析评价参数组合&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;筛选适宜的低损伤微波热处理参数组合&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="214" x="1008" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-66" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 20px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;从较优、居中和较差参数组合中选取代表性工况&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;对关键测点温度进行对比分析&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: 400; forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;对参数优化结果的合理性和代表性进行验证支撑&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-weight: 400; forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;形成综合评价结论&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="90" width="212" x="1246" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-67" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 20px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;联合分析电场分布、吸收功率密度分布和温度场分布&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;比较高场区、高吸收功率区与温度热点的空间对应关系&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;揭示局部过热与热损伤形成原因&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;结合模型误差来源和功率边界分析参数适用范围&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="74.5" width="213" x="1497" y="598" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-68" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(192, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;文献分析与理论梳理&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="31" width="126" x="573" y="749" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-69" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;" value="&lt;span style=&quot;color: rgb(192, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;前期模型继承与参数核验&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="154" x="736" y="749" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-70" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;对较优、居中和较差参数组合开展关键测点温度对比&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;以顶端、中部、底部及典型冠层部位为主要观测位置&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;必要时辅以表面热像或已有条件下可实现的辅助观测&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;对参数优化结果进行支撑性验证&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="337.5" x="582.5" y="843" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-71" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; padding-left: 24px;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;比较不同参数组合下温度均匀性与热损伤风险差异&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;分析高场区、高吸收功率区与温度热点的耦合关系&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;解释局部过热形成及低损伤热处理效果差异&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 13px;&quot;&gt;明确参数优化结果的合理性与适用性&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="326" x="982" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-74" edge="1" parent="1" source="dejLF14Mv_5d38B0jCep-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=2;endArrow=block;endFill=1;endSize=2;exitX=0.999;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.787;entryDx=0;entryDy=0;entryPerimeter=0;" target="dejLF14Mv_5d38B0jCep-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1477" y="656.94" as="sourcePoint" />
+            <mxPoint x="1496" y="656.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dejLF14Mv_5d38B0jCep-75" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2B5079;strokeWidth=1;dashed=1;endArrow=block;endFill=1;entryX=0.702;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953" y="720" />
+              <mxPoint x="953" y="740" />
+              <mxPoint x="953" y="740" />
+            </Array>
+            <mxPoint x="957.5" y="720" as="sourcePoint" />
+            <mxPoint x="953.1280000000002" y="745.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
