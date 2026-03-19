@@ -1,0 +1,331 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1">
+  <diagram name="第 1 页" id="qV5Oegqs4GZpkNdCbkW3">
+    <mxGraphModel dx="1591" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title_box" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;面向数控机床维修辅助的结构类型化知识单元构建与 RAG 验证研究 技术路线&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="1420" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="layer1_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C798E;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;研究基础层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="130" width="100" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="layer2_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C798E;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;数据处理层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="100" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="layer3_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C798E;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;方法构建层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="150" width="100" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="layer4_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C798E;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;实验&lt;br&gt;验证层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="380" width="100" x="40" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="layer5_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;结果&lt;br&gt;输出层&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="40" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="stage1_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;" value="" vertex="1">
+          <mxGeometry height="130" width="1310" x="150" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="stage1_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第一阶段：研究准备与理论基础&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="700" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_lit_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;fontSize=14;" value="文献调研" vertex="1">
+          <mxGeometry height="30" width="300" x="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_lit_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;RAG&lt;/li&gt;&lt;li&gt;结构感知检索&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_lit_content2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;工业维修知识组织&lt;/li&gt;&lt;li&gt;可信生成&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_problem" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="问题界定" vertex="1">
+          <mxGeometry height="40" width="120" x="540" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_solution_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;fontSize=14;" value="方案收敛" vertex="1">
+          <mxGeometry height="30" width="710" x="720" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="s1_solution_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=center;fontSize=13;" value="传统 RAG 对数控机床维修文档这类半结构化技术文档的结构语义保持不足，普通文本切分容易破坏&lt;br&gt;“报警—原因—处置”、“参数—范围—限制条件”、“现象—检查步骤—安全提示”等关键关联" vertex="1">
+          <mxGeometry height="50" width="710" x="720" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s1_1" edge="1" parent="1" source="s1_lit_content2" target="s1_problem">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s1_2" edge="1" parent="1" source="s1_problem" target="s1_solution_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stage2_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;" value="" vertex="1">
+          <mxGeometry height="270" width="600" x="150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="stage2_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第二阶段：多源维修文档采集与预处理&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="280" x="310" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_input1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="维修手册" vertex="1">
+          <mxGeometry height="40" width="120" x="170" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_input2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="报警说明文档" vertex="1">
+          <mxGeometry height="40" width="120" x="170" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_input3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="参数说明文档" vertex="1">
+          <mxGeometry height="40" width="120" x="170" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_process_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="文档清理与预处理" vertex="1">
+          <mxGeometry height="30" width="280" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_process_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;文档格式统一&lt;/li&gt;&lt;li&gt;标题层级恢复&lt;/li&gt;&lt;li&gt;字段识别与合并&lt;/li&gt;&lt;li&gt;表格记录提取&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;li&gt;警告/注意/禁止操作等安全信息提取&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="s2_process_content2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;&quot;&gt;&lt;li&gt;步骤项识别&lt;/li&gt;&lt;li&gt;适用条件识别&lt;/li&gt;&lt;li&gt;来源页码定位&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="150" width="130" x="480" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s2_1" edge="1" parent="1" source="s2_input1" target="s2_process_content">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="310" />
+              <mxPoint x="310" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_s2_2" edge="1" parent="1" source="s2_input2" target="s2_process_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s2_3" edge="1" parent="1" source="s2_input3" target="s2_process_content">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="450" />
+              <mxPoint x="310" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2_output" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;fontStyle=1" value="完成结构恢复的&lt;br&gt;维修文档语料" vertex="1">
+          <mxGeometry height="50" width="100" x="630" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s2_out" edge="1" parent="1" source="s2_process_content2" target="s2_output">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stage3_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;" value="" vertex="1">
+          <mxGeometry height="270" width="700" x="760" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="stage3_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第三阶段：结构类型化知识单元构建&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="280" x="970" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_input" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=#AAB8C2;" value="原始&lt;br&gt;文档" vertex="1">
+          <mxGeometry height="110" width="60" x="780" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s3_in" edge="1" parent="1" source="s2_output" target="s3_input">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="结构类型化知识单元库" vertex="1">
+          <mxGeometry height="30" width="280" x="870" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;" value="" vertex="1">
+          <mxGeometry height="150" width="280" x="870" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_item1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="报警条目单元" vertex="1">
+          <mxGeometry height="30" width="110" x="885" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_item2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="参数条目单元" vertex="1">
+          <mxGeometry height="30" width="110" x="1025" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_item3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="症状-检查&lt;br&gt;单元" vertex="1">
+          <mxGeometry height="40" width="110" x="885" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_ku_item4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="步骤链单元" vertex="1">
+          <mxGeometry height="30" width="110" x="1025" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s3_ku" edge="1" parent="1" source="s3_ku_item3" target="s3_ku_item4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s3_1" edge="1" parent="1" source="s3_input" target="s3_ku_bg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="建立元数据与结构关系" vertex="1">
+          <mxGeometry height="30" width="260" x="1180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;" value="" vertex="1">
+          <mxGeometry height="150" width="260" x="1180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="单元类型标签" vertex="1">
+          <mxGeometry height="25" width="110" x="1195" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="来源定位" vertex="1">
+          <mxGeometry height="25" width="110" x="1315" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="章节层级路径" vertex="1">
+          <mxGeometry height="25" width="110" x="1195" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="字段属性" vertex="1">
+          <mxGeometry height="25" width="110" x="1315" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="邻接关系" vertex="1">
+          <mxGeometry height="25" width="110" x="1195" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_meta_6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="附着型安全约束关系" vertex="1">
+          <mxGeometry height="25" width="110" x="1315" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s3_2" edge="1" parent="1" source="s3_ku_bg" target="s3_meta_bg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3_note" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#47667C;fontColor=#000000;dashed=1;" value="突出“从原始文档到知识单元重构”，实现“结构化表示”与“安全约束绑定”" vertex="1">
+          <mxGeometry height="25" width="570" x="870" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="stage4_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;dashed=1;dashPattern=1 2;" value="" vertex="1">
+          <mxGeometry height="380" width="670" x="150" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="stage4_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第四阶段：统一检索环境构建与证据定位验证&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="330" x="320" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_env_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="&lt;b&gt;统一检索环境&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_env_mod" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="模块" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_env_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="关键词召回" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_env_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="语义召回" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_env_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="重排序" vertex="1">
+          <mxGeometry height="30" width="120" x="170" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_compare_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="多种知识组织&lt;br&gt;方式对比" vertex="1">
+          <mxGeometry height="150" width="130" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s4_1" edge="1" parent="1" source="s4_env_2" target="s4_compare_title">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_compare_list" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;line-height:1.5;&quot;&gt;&lt;li&gt;固定长度切片&lt;/li&gt;&lt;li&gt;层级切分文本块&lt;/li&gt;&lt;li&gt;章节路径与元数据增强块&lt;/li&gt;&lt;li&gt;文档元素/版面感知切分&lt;/li&gt;&lt;li&gt;表格记录级切分&lt;/li&gt;&lt;li&gt;步骤项/步骤块切分&lt;/li&gt;&lt;li&gt;&lt;b&gt;结构类型化知识单元&lt;/b&gt; [实验组]&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="150" width="330" x="470" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s4_2" edge="1" parent="1" source="s4_compare_title" target="s4_compare_list">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_task" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="面向报警码型查询、参数型查询、&lt;br&gt;现象描述型查询的证据定位任务" vertex="1">
+          <mxGeometry height="60" width="310" x="320" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s4_3" edge="1" parent="1" source="s4_compare_title" target="s4_task">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_eval_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="关键证据召回" vertex="1">
+          <mxGeometry height="25" width="140" x="660" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_eval_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="排序能力" vertex="1">
+          <mxGeometry height="25" width="140" x="660" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_eval_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="出处定位能力" vertex="1">
+          <mxGeometry height="25" width="140" x="660" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s4_4" edge="1" parent="1" source="s4_task" target="s4_eval_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s4_note" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;align=center;" value="“证据对齐”、“风险约束”、“可靠输出”特征的轻量生成环节" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s4_5" edge="1" parent="1" source="s4_note" target="s4_task">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_s4_6" edge="1" parent="1" source="s4_task" target="s4_note">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stage5_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;dashed=1;dashPattern=1 2;" value="" vertex="1">
+          <mxGeometry height="130" width="620" x="840" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="stage5_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第五阶段：步骤级证据对齐输出机制设计&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="320" x="990" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="s5_input" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="基于检索机制" vertex="1">
+          <mxGeometry height="60" width="110" x="860" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="s5_process" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;line-height:1.8;&quot;&gt;&lt;li&gt;对关键步骤或关键断言进行证据支持检查&lt;/li&gt;&lt;li&gt;在证据不足、证据冲突或涉及高风险操作时触发保守回答机制&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="450" x="990" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_s5" edge="1" parent="1" source="s5_input" target="s5_process">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stage6_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;dashed=1;dashPattern=1 2;" value="" vertex="1">
+          <mxGeometry height="230" width="620" x="840" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="stage6_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第六阶段：消融分析与评测体系构建&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="300" x="1000" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_eval_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0DAE3;strokeColor=none;" value="&lt;b&gt;评量目标&lt;/b&gt;" vertex="1">
+          <mxGeometry height="150" width="30" x="860" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_eval_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="评测验证" vertex="1">
+          <mxGeometry height="30" width="370" x="900" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_auto_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="自动评测" vertex="1">
+          <mxGeometry height="30" width="180" x="900" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_auto_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="检索覆盖" vertex="1">
+          <mxGeometry height="25" width="180" x="900" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_auto_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="关键证据命中" vertex="1">
+          <mxGeometry height="25" width="180" x="900" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_auto_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="排序效果" vertex="1">
+          <mxGeometry height="25" width="180" x="900" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_auto_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="出处定位" vertex="1">
+          <mxGeometry height="25" width="180" x="900" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_man_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#47667C;fontColor=#FFFFFF;strokeColor=none;" value="人工复核" vertex="1">
+          <mxGeometry height="30" width="180" x="1090" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_man_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="步骤/断言-证据片段配对" vertex="1">
+          <mxGeometry height="25" width="180" x="1090" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_man_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="关键约束覆盖情况" vertex="1">
+          <mxGeometry height="25" width="180" x="1090" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_man_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="保守回答触发合理性" vertex="1">
+          <mxGeometry height="25" width="180" x="1090" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_man_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="一致性检验" vertex="1">
+          <mxGeometry height="25" width="180" x="1090" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_ablation_title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B889C;fontColor=#FFFFFF;strokeColor=none;" value="消融分析" vertex="1">
+          <mxGeometry height="30" width="150" x="1290" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_ab_1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="去除单元类型标签" vertex="1">
+          <mxGeometry height="30" width="150" x="1290" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_ab_2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="去除层级路径" vertex="1">
+          <mxGeometry height="30" width="150" x="1290" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_ab_3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="去除步骤邻接关系" vertex="1">
+          <mxGeometry height="30" width="150" x="1290" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="s6_ab_4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#364C5E;fontColor=#FFFFFF;strokeColor=none;" value="去除证据核查机制" vertex="1">
+          <mxGeometry height="30" width="150" x="1290" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_stage5_to_6" edge="1" parent="1" source="s5_process" target="stage6_bg">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="stage7_bg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8ED;strokeColor=#AAB8C2;align=top;" value="" vertex="1">
+          <mxGeometry height="100" width="1310" x="150" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="stage7_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;第七阶段：研究结果与最终产出&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="690" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="s7_label" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontStyle=1;" value="预期&lt;br&gt;成果" vertex="1">
+          <mxGeometry height="40" width="50" x="180" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="s7_content" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;line-height:1.6;&quot;&gt;&lt;li&gt;提出一套面向数控机床维修文档的结构类型化知识单元构建方法&lt;/li&gt;&lt;li&gt;形成一套用于验证其有效性的分层标注与评测协议&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="240" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="s7_content2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB8C2;align=left;" value="&lt;ul style=&quot;margin:0px;padding-left:20px;line-height:1.6;&quot;&gt;&lt;li&gt;实现一个基于统一检索环境和轻量证据对齐输出机制的维修辅助原型&lt;/li&gt;&lt;li&gt;为论文撰写、案例分析和后续研究拓展提供方法基础&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="610" x="810" y="940" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
