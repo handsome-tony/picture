@@ -52,8 +52,8 @@
         <mxCell id="9Wl_vjDunAtFlY6vTTyE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="77" width="700" x="40" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="title" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1;fontColor=#000000;whiteSpace=wrap;" value="技术路线图" vertex="1">
-          <mxGeometry height="40" width="217" x="333.5" y="20" as="geometry" />
+        <mxCell id="title" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1;fontColor=#000000;whiteSpace=wrap;" value="结构类型化知识单元构建与证据对齐技术路线图" vertex="1">
+          <mxGeometry height="40" width="526.5" x="164.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="arrow_2_3" edge="1" parent="1" source="mod_2_sub_corpus" style="endArrow=classic;html=1;rounded=1;strokeColor=#4F79A3;strokeWidth=2;entryX=0.59;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.51;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;endSize=3;" target="9Wl_vjDunAtFlY6vTTyE-5" value="">
           <mxGeometry relative="1" as="geometry">
