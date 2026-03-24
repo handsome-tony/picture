@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="V7dUY8dCBDBFAYlVkeMQ">
-    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,13 +188,13 @@
           <mxGeometry height="20" width="148" x="567" y="826" as="geometry" />
         </mxCell>
         <mxCell id="mod_7_tag_metric5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;fontSize=14;" value="MES-hit@k" vertex="1">
-          <mxGeometry height="20" width="83" x="297" y="851" as="geometry" />
+          <mxGeometry height="20" width="103" x="297" y="851" as="geometry" />
         </mxCell>
-        <mxCell id="mod_7_tag_metric6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;fontSize=14;padding-left:10;padding-right:10;" value="Conservative Accuracy" vertex="1">
-          <mxGeometry height="20" width="149" x="385" y="851" as="geometry" />
+        <mxCell id="mod_7_tag_metric6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;fontSize=14;padding-left:10;padding-right:10;" value="保守回答准确率" vertex="1">
+          <mxGeometry height="20" width="149" x="418" y="851" as="geometry" />
         </mxCell>
-        <mxCell id="mod_7_tag_metric7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;fontSize=14;padding-left:10;padding-right:10;" value="False-Answer-on-NEI Rate" vertex="1">
-          <mxGeometry height="20" width="178" x="538" y="851" as="geometry" />
+        <mxCell id="mod_7_tag_metric7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;fontSize=14;padding-left:10;padding-right:10;" value="NEI误答率" vertex="1">
+          <mxGeometry height="20" width="126" x="590" y="851" as="geometry" />
         </mxCell>
         <mxCell id="mod_8_outer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1D4E7F;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="70" width="156" x="44" y="895" as="geometry" />
@@ -235,7 +235,7 @@
         <mxCell id="9Wl_vjDunAtFlY6vTTyE-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="&lt;span style=&quot;font-size: 13px; text-align: left;&quot;&gt;in_path、has_child、precedes、refers_to等&lt;/span&gt;" vertex="1">
           <mxGeometry height="25" width="366" x="335" y="459.5" as="geometry" />
         </mxCell>
-        <mxCell id="9Wl_vjDunAtFlY6vTTyE-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="&lt;span style=&quot;font-size: 13px; text-align: left;&quot;&gt;父单元为主、子对象补充、轻量关系建模&lt;/span&gt;" vertex="1">
+        <mxCell id="9Wl_vjDunAtFlY6vTTyE-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="以父单元为主，以子对象补充，以轻量关系关联" vertex="1">
           <mxGeometry height="25" width="485" x="226" y="495" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="父单元索引" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="最终排序单位统一为父单元" vertex="1">
           <mxGeometry height="25" width="173" x="546.5" y="549" as="geometry" />
         </mxCell>
-        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="保持父对象完整性，同时利用细粒度对象提升命中能力" vertex="1">
+        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="保持父单元完整性，同时利用细粒度对象提升命中能力" vertex="1">
           <mxGeometry height="25" width="506.5" x="213.5" y="583" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="查询集构建" vertex="1">
@@ -268,7 +268,7 @@
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=#000000;strokeWidth=1;align=center;fontColor=#000000;fontSize=14;padding-left:5;padding-right:5;" value="评测协议冻结" vertex="1">
           <mxGeometry height="25" width="139.5" x="580" y="669" as="geometry" />
         </mxCell>
-        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-14" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;相同实验条件&lt;/span&gt;" vertex="1">
+        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-14" parent="1" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=default;labelBackgroundColor=none;" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;公平比较条件&lt;/span&gt;" vertex="1">
           <mxGeometry height="28" width="88" x="223" y="791" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-15" parent="1" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=right;verticalAlign=middle;fontSize=14;fontStyle=1;whiteSpace=wrap;rounded=1;" value="" vertex="1">
@@ -317,13 +317,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究对象&lt;/font&gt;&lt;/b&gt;&lt;div&gt;数控机床维修文档&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="120" x="221" y="84.5" as="geometry" />
+          <mxGeometry height="68" width="109" x="221" y="84.5" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;核心目标&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;构建结构类型化知识单元，提升维修场景中的证据定位、出处引用、步骤支撑与保守回答能力&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="180" x="349" y="84.5" as="geometry" />
+          <mxGeometry height="68" width="180" x="335" y="84.5" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;核心问题&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;相较普通文本切片，结构类型化知识单元是否更适合支持维修文档中的关键证据检索与可信输出&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="180" x="536" y="84.5" as="geometry" />
+          <mxGeometry height="68" width="196" x="520" y="84.5" as="geometry" />
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;结构验证&lt;/font&gt;&lt;/b&gt;&lt;div&gt;父单元命中提升&lt;/div&gt;&lt;div&gt;关键证据定位提升&lt;/div&gt;&lt;div&gt;步骤级输出与保守回答改善&lt;/div&gt;" vertex="1">
           <mxGeometry height="68" width="150" x="231" y="897" as="geometry" />
