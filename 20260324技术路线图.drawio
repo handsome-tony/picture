@@ -197,13 +197,10 @@
           <mxGeometry height="20" width="178" x="538" y="851" as="geometry" />
         </mxCell>
         <mxCell id="mod_8_outer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1D4E7F;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="70" width="165" x="44" y="895" as="geometry" />
+          <mxGeometry height="70" width="156" x="44" y="895" as="geometry" />
         </mxCell>
         <mxCell id="mod_8_header" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#FFFFFF;fontSize=18;fontStyle=1;whiteSpace=wrap;spacingLeft=10;spacingRight=10;" value="8. 结果分析与研究结论" vertex="1">
-          <mxGeometry height="70" width="165" x="44" y="895" as="geometry" />
-        </mxCell>
-        <mxCell id="mod_8_content" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=5;fontSize=14;whiteSpace=wrap;overflow=hidden;" value="验证结构类型化知识单元对父单元命中和关键子证据命中的提升作用&#xa;验证其对步骤级输出与保守回答的收益传导&#xa;结合案例分析、失败模式分析和消融分析解释作用机制&#xa;最终形成：方法总结、实验结论、论文输出" vertex="1">
-          <mxGeometry height="80" width="450" x="261" y="892" as="geometry" />
+          <mxGeometry height="70" width="146" x="50" y="895" as="geometry" />
         </mxCell>
         <mxCell id="9Wl_vjDunAtFlY6vTTyE-3" edge="1" parent="1" source="mod_2_sub_siemens" style="endArrow=classic;html=1;rounded=0;strokeColor=#4F79A3;strokeWidth=2;curved=0;entryX=0.006;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="mod_2_sub_corpus" value="">
           <mxGeometry relative="1" as="geometry">
@@ -327,6 +324,15 @@
         </mxCell>
         <mxCell id="h6r7cIQ-IwFYrAK8DtcM-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;核心问题&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;相较普通文本切片，结构类型化知识单元是否更适合支持维修文档中的关键证据检索与可信输出&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="68" width="180" x="536" y="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;结构验证&lt;/font&gt;&lt;/b&gt;&lt;div&gt;父单元命中提升&lt;/div&gt;&lt;div&gt;关键证据定位提升&lt;/div&gt;&lt;div&gt;步骤级输出与保守回答改善&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="150" x="231" y="897" as="geometry" />
+        </mxCell>
+        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;机制解释&lt;/font&gt;&lt;/b&gt;&lt;div&gt;案例分析&lt;/div&gt;&lt;div&gt;失败模式分析&lt;/div&gt;&lt;div&gt;消融分析&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="119" x="419" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="h6r7cIQ-IwFYrAK8DtcM-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9F7ED;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;研究产出&lt;/font&gt;&lt;/b&gt;&lt;div&gt;方法总结&lt;/div&gt;&lt;div&gt;实验结论&lt;/div&gt;&lt;div&gt;论文输出&lt;/div&gt;" vertex="1">
+          <mxGeometry height="68" width="119.5" x="576.25" y="897" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
