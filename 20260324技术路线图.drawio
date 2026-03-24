@@ -76,10 +76,10 @@
         <mxCell id="mod_2_header" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#FFFFFF;fontSize=18;fontStyle=1;whiteSpace=wrap;" value="2. 主语料输入" vertex="1">
           <mxGeometry height="30" width="130" x="58.5" y="192" as="geometry" />
         </mxCell>
-        <mxCell id="mod_2_sub_siemens" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=default;align=center;fontColor=#FFFFFF;fontSize=15;spacing=5;padding-left:10;padding-right:10;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Siemens 802D sl 报警诊断型文档&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;报警号递增组织、字段结构稳定、&lt;br&gt;条目边界清晰&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="mod_2_sub_siemens" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=default;align=center;fontColor=#FFFFFF;fontSize=15;spacing=5;padding-left:10;padding-right:10;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Siemens 802D sl 报警诊断文档&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;报警号递增组织、字段结构稳定、&lt;br&gt;条目边界清晰&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="244" x="212" y="176" as="geometry" />
         </mxCell>
-        <mxCell id="mod_2_sub_haas" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=default;align=center;fontColor=#FFFFFF;fontSize=15;spacing=5;padding-left:10;padding-right:10;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Haas VF 2002 流程排障型文档&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;症状标题 + 检查项；&lt;br&gt;过程标题 + 编号步骤 + 警示语 + 图号引用&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="mod_2_sub_haas" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C0C0C0;strokeColor=default;align=center;fontColor=#FFFFFF;fontSize=15;spacing=5;padding-left:10;padding-right:10;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Haas VF 2002 流程排障文档&lt;br&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;症状标题 + 检查项；&lt;br&gt;过程标题 + 编号步骤 + 警示语 + 图号引用&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="264" x="464" y="176" as="geometry" />
         </mxCell>
         <mxCell id="mod_2_sub_corpus" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4F79A3;strokeColor=default;align=center;fontColor=#FFFFFF;fontSize=15;" value="维修文档主语料" vertex="1">
@@ -130,7 +130,7 @@
         <mxCell id="mod_5_outer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
           <mxGeometry height="61" width="155" x="47" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="mod_5_header" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#FFFFFF;fontSize=18;fontStyle=1;whiteSpace=wrap;" value="5. 索引与统一检索机制" vertex="1">
+        <mxCell id="mod_5_header" parent="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontColor=#FFFFFF;fontSize=18;fontStyle=1;whiteSpace=wrap;" value="5. 索引构建与统一检索机制" vertex="1">
           <mxGeometry height="40" width="130" x="62" y="559" as="geometry" />
         </mxCell>
         <mxCell id="mod_6_outer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;strokeWidth=1;fontColor=#ffffff;" value="" vertex="1">
