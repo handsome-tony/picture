@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.5">
+  <diagram name="第 1 页" id="Yi1RFDSi24PuT9vR94oE">
+    <mxGraphModel dx="1216" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;知识讲解与&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;概念阐述&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;教案与教学&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;设计&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;情境化案例与示例生成&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;试题、作业与解析生成&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;学习问答与&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;辅导对话&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;评价反馈与&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;修改建议&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;教育文本任务池&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="265" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;常见问题&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="471.25" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;306&quot; data-end=&quot;324&quot; style=&quot;&quot;&gt;讲解内容和教学目标&lt;b&gt;不完全一致&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="教学目标、教学内容、教学活动、评价方式之间&lt;b&gt;不对齐&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;strong data-start=&quot;466&quot; data-end=&quot;476&quot;&gt;结构组织不稳&lt;/strong&gt;，环节顺序、重难点安排、时间分配、案例嵌入方式容易失衡。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;581&quot; data-end=&quot;610&quot; style=&quot;&quot;&gt;案例表面完整，但与知识点、教学意图或课程情境&lt;b&gt;不贴合&lt;/b&gt;&lt;/span&gt;。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;621&quot; data-end=&quot;643&quot; style=&quot;&quot;&gt;案例中的判断、因果、结论缺少明确依据&lt;/span&gt;，可读但&lt;b&gt;不易验证&lt;/b&gt;。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="题目看起来合理，但并没有精准考到目标知识点。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;846&quot; data-end=&quot;857&quot; style=&quot;&quot;&gt;解析&lt;b&gt;不够可验证&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;967&quot; data-end=&quot;980&quot; style=&quot;&quot;&gt;回答流畅但&lt;b&gt;依据不足&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="答非所问、步骤跨度过大。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;1123&quot; data-end=&quot;1142&quot; style=&quot;&quot;&gt;反馈语句泛、依据弱、针对性不够&lt;/span&gt;，&lt;b&gt;缺少证据&lt;/b&gt;。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;1175&quot; data-end=&quot;1186&quot; style=&quot;&quot;&gt;评价&lt;b&gt;标准不稳定&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span data-start=&quot;263&quot; data-end=&quot;295&quot; style=&quot;&quot;&gt;表述看起来通顺，但&lt;b&gt;知识点有偏移、混淆或前提遗漏&lt;/b&gt;&lt;/span&gt;。" vertex="1">
+          <mxGeometry height="60" width="127.5" x="482.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-22" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-23" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-24" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-25" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-26" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-27" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-28" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-29" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-30" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-31" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-32" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-33" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;内容可信度&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="313" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;知识/目标对齐&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="476" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;评价可靠性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="623" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;证据归因&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="769" as="geometry" />
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-38" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-21" style="endArrow=none;html=1;rounded=0;entryX=0.001;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="320" as="sourcePoint" />
+            <mxPoint x="640" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-39" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-13" style="endArrow=none;html=1;rounded=0;exitX=1.013;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="470" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-40" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-16" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.006;entryY=0.794;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="750" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-41" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-10" style="endArrow=none;html=1;rounded=0;exitX=0.992;exitY=0.384;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <mxPoint x="730" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-42" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-12" style="endArrow=none;html=1;rounded=0;entryX=-0.002;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.419;exitDx=0;exitDy=0;exitPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="530" as="sourcePoint" />
+            <mxPoint x="590" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-43" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-14" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.993;exitY=0.389;exitDx=0;exitDy=0;exitPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="660" as="sourcePoint" />
+            <mxPoint x="580" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-44" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-19" style="endArrow=none;html=1;rounded=0;exitX=0.984;exitY=0.394;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.906;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="800" as="sourcePoint" />
+            <mxPoint x="680" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-45" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-20" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="880" as="sourcePoint" />
+            <mxPoint x="720" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piHDmEI8ZSlnYlEZyTAP-46" edge="1" parent="1" source="piHDmEI8ZSlnYlEZyTAP-15" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" target="piHDmEI8ZSlnYlEZyTAP-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="710" as="sourcePoint" />
+            <mxPoint x="680" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
