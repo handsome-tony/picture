@@ -1,47 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Codex">
   <diagram id="research-flow" name="Page-1">
-    <mxGraphModel dx="889" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1200" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="4088" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1200" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3KsziyiJGjYwYtRfmXxj-61" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#1f1f1f;" value="从四个研究方向到第三章、第四章主方法确定的收敛过程" vertex="1">
-          <mxGeometry height="40" width="1460" x="1322.4000244140625" y="628" as="geometry" />
+          <mxGeometry height="40" width="1460" x="440.0000244140625" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="内容可信度、知识/目标对齐、证据归因、评价可靠性&lt;br&gt;目标：明确第三章做什么、第四章做什么，以及两章如何递进衔接" vertex="1">
-          <mxGeometry height="80" width="464" x="1820.4" y="688" as="geometry" />
+          <mxGeometry height="80" width="464" x="938.0000000000001" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;align=center;spacingLeft=12;" value="先设定筛选约束&lt;br&gt;1. 第三章必须为第四章提供基础，不能并列平铺&lt;br&gt;2. 论文重心必须是方法问题，而不是应用场景描述&lt;br&gt;3. 每一章都要解决一个具体局限，边界不能重叠" vertex="1">
-          <mxGeometry height="95" width="470" x="1818" y="798" as="geometry" />
+          <mxGeometry height="95" width="470" x="935.6" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="第一轮：判断每个方向在整篇论文中适合扮演什么角色" vertex="1">
-          <mxGeometry height="60" width="650" x="1728" y="933" as="geometry" />
+          <mxGeometry height="60" width="650" x="845.6" y="1685" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="方向一：内容可信度&#xa;关注生成内容是否真实、是否减少幻觉、是否可验证纠错" vertex="1">
-          <mxGeometry height="95" width="358.4" x="1223" y="1048" as="geometry" />
+          <mxGeometry height="95" width="358.4" x="340.6" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" value="方向二：知识 / 目标对齐&#xa;关注说什么、怎么组织、是否偏离任务目标" vertex="1">
-          <mxGeometry height="95" width="272.4" x="1627" y="1048" as="geometry" />
+          <mxGeometry height="95" width="272.4" x="744.6" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="方向三：证据归因&#xa;关注 claim 与 evidence 能否显式绑定、是否便于核验" vertex="1">
-          <mxGeometry height="95" width="342.4" x="1970" y="1048" as="geometry" />
+          <mxGeometry height="95" width="342.4" x="1087.6" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" value="方向四：评价可靠性&#xa;关注评测是否稳定、可复核、与人评是否一致" vertex="1">
-          <mxGeometry height="95" width="292.4" x="2380" y="1048" as="geometry" />
+          <mxGeometry height="95" width="292.4" x="1497.6" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-69" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=14;" value="第二轮：在“章节必须递进”的约束下，哪条主线最顺？" vertex="1">
-          <mxGeometry height="130" width="360" x="1687.4000244140625" y="1198" as="geometry" />
+          <mxGeometry height="130" width="360" x="805.0000244140625" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" value="知识 / 目标对齐不作为独立主章&#xa;原因：概念容易发散，且与证据组织、规划模块边界重叠&#xa;最终处理：退为第三章中的支撑模块" vertex="1">
-          <mxGeometry height="110" width="430" x="962.4000244140625" y="1368" as="geometry" />
+          <mxGeometry height="110" width="430" x="80.00002441406252" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="保留的主线：证据归因 → 内容可信度&lt;br&gt;原因：先构建可核验结构，再在该结构上做可信度评估与优化，逻辑最干净，章节边界也最清楚" vertex="1">
-          <mxGeometry height="95" width="510" x="1613" y="1363" as="geometry" />
+          <mxGeometry height="95" width="510" x="730.6" y="2115" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" value="评价可靠性不作为独立主章&#xa;原因：更像元评测，容易把论文重心带偏&#xa;最终处理：作为第三章、第四章共同的实验协议与约束条件" vertex="1">
-          <mxGeometry height="110" width="430" x="2352.4000244140625" y="1368" as="geometry" />
+          <mxGeometry height="110" width="430" x="1470.0000244140624" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-73" parent="1" style="swimlane;html=1;rounded=1;startSize=52;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="第三章问题锁定&#xa;在‘证据归因’问题簇内部继续收缩" vertex="1">
-          <mxGeometry height="550" width="890" x="932.4000244140625" y="1548" as="geometry" />
+          <mxGeometry height="550" width="890" x="50.00002441406252" y="2300" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-74" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="候选 1&#xa;生成后证据归因修订&#xa;代表：RARR" vertex="1">
           <mxGeometry height="90" width="130" x="77.6" y="60" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-87" parent="1" style="swimlane;html=1;rounded=1;startSize=52;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="第四章问题锁定&#xa;在‘内容可信度’问题簇内部继续收缩" vertex="1">
-          <mxGeometry height="552" width="890" x="1882.4" y="1548" as="geometry" />
+          <mxGeometry height="552" width="890" x="1000.0000000000001" y="2300" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-88" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 1&#xa;atomic facts / verifiable claims 评测链条&#xa;代表：FActScore、VeriScore" vertex="1">
           <mxGeometry height="90" width="240" x="35" y="60" as="geometry" />
@@ -150,10 +150,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;spacingLeft=12;" value="两章最终通过这些接口变量接起来&#xa;内容单元：sentence / claim / span&#xa;对齐单元：reference-claim pair、citation / evidence alignment&#xa;状态单元：supported、partial support、conflict、inconclusive、[NA]&#xa;成本单元：citation length、verification time、evidence sufficiency、评估调用次数" vertex="1">
-          <mxGeometry height="125" width="1030" x="1337.4000244140625" y="2271" as="geometry" />
+          <mxGeometry height="125" width="1030" x="455.0000244140625" y="3023" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;" value="最终形成的论文叙事&#xa;第三章先用 ReClaim 类方法构建‘细粒度、可核验、可传递’的证据归因结构；第四章再用 FaStFact 式框架把长文本可信度评估做得更高效、更稳健、可扩展" vertex="1">
-          <mxGeometry height="85" width="1210" x="1247.4000244140625" y="2441" as="geometry" />
+          <mxGeometry height="85" width="1210" x="365.0000244140625" y="3193" as="geometry" />
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-103" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-63">
           <mxGeometry relative="1" as="geometry" />
@@ -164,11 +164,11 @@
         <mxCell id="3KsziyiJGjYwYtRfmXxj-105" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2052" y="1020" />
-              <mxPoint x="1390" y="1020" />
-              <mxPoint x="1390" y="1051" />
+              <mxPoint x="1169.6" y="1772" />
+              <mxPoint x="507.6" y="1772" />
+              <mxPoint x="507.6" y="1803" />
             </Array>
-            <mxPoint x="1390" y="1051" as="targetPoint" />
+            <mxPoint x="507.6" y="1803" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-106" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-66">
@@ -180,18 +180,18 @@
         <mxCell id="3KsziyiJGjYwYtRfmXxj-108" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2054" y="1020" />
-              <mxPoint x="2526" y="1020" />
+              <mxPoint x="1171.6" y="1772" />
+              <mxPoint x="1643.6" y="1772" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-109" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;exitX=0.437;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" target="3KsziyiJGjYwYtRfmXxj-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="1144" />
-              <mxPoint x="1380" y="1144" />
-              <mxPoint x="1380" y="1170" />
-              <mxPoint x="1867" y="1170" />
+              <mxPoint x="497.6" y="1896" />
+              <mxPoint x="497.6" y="1896" />
+              <mxPoint x="497.6" y="1922" />
+              <mxPoint x="984.6" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -204,15 +204,15 @@
         <mxCell id="3KsziyiJGjYwYtRfmXxj-112" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2572" y="1170" />
-              <mxPoint x="1867" y="1170" />
+              <mxPoint x="1689.6" y="1922" />
+              <mxPoint x="984.6" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-113" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-70" value="降为支撑模块">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1472.4000244140625" y="1338" />
+              <mxPoint x="590.0000244140625" y="2090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -222,35 +222,35 @@
         <mxCell id="3KsziyiJGjYwYtRfmXxj-115" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-72" value="降为评估约束">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2262.4000244140625" y="1338" />
+              <mxPoint x="1380.0000244140624" y="2090" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-116" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1612.4000244140625" y="1508" />
+              <mxPoint x="730.0000244140625" y="2260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-117" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2132.4000244140625" y="1508" />
+              <mxPoint x="1250.0000244140624" y="2260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-118" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1387.4000244140625" y="2188" />
+              <mxPoint x="505.0000244140625" y="2940" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3KsziyiJGjYwYtRfmXxj-119" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2332.4000244140625" y="2188" />
+              <mxPoint x="1450.0000244140624" y="2940" />
             </Array>
           </mxGeometry>
         </mxCell>
