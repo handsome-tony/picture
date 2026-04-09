@@ -49,7 +49,7 @@
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#9673a6;fontSize=13;" value="评价可靠性不作为独立主章&#xa;原因：更像元评测，容易把论文重心带偏&#xa;最终处理：作为第三章、第四章共同的实验协议与约束条件" vertex="1">
           <mxGeometry height="110" width="260" x="1842" y="955" as="geometry" />
         </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=center;spacingLeft=12;" value="两章需要通过接口变量连接起来&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cdKcDxsXoZ0XK-X5CE99-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=center;spacingLeft=12;" value="两章需要通过接口变量连接起来" vertex="1">
           <mxGeometry height="60" width="405" x="1372.5" y="1890" as="geometry" />
         </mxCell>
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;" value="最终形成的论文叙事&#xa;第三章先用 ReClaim 类方法构建‘细粒度、可核验、可传递’的证据归因结构；第四章再用 FaStFact 式框架把长文本可信度评估做得更高效、更稳健、可扩展" vertex="1">
