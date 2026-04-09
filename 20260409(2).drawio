@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="XVwCY11b04gqVuWw0Msk">
-    <mxGraphModel dx="375" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1217" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry height="95" width="207" x="1330" y="635" as="geometry" />
         </mxCell>
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#6c8ebf;fontSize=14;" value="方向三：证据归因&#xa;关注 claim 与 evidence 能否显式绑定、是否便于核验" vertex="1">
-          <mxGeometry height="95" width="210" x="1586.4" y="635" as="geometry" />
+          <mxGeometry height="95" width="210" x="1582.4" y="635" as="geometry" />
         </mxCell>
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#9673a6;fontSize=14;" value="方向四：评价可靠性&#xa;关注评测是否稳定、可复核、与人评是否一致" vertex="1">
           <mxGeometry height="95" width="190" x="1840" y="635" as="geometry" />
@@ -72,7 +72,7 @@
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-47" edge="1" parent="1" source="cdKcDxsXoZ0XK-X5CE99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-48" edge="1" parent="1" source="cdKcDxsXoZ0XK-X5CE99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-9">
+        <mxCell id="cdKcDxsXoZ0XK-X5CE99-48" edge="1" parent="1" source="cdKcDxsXoZ0XK-X5CE99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;entryX=0.518;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="cdKcDxsXoZ0XK-X5CE99-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1560" y="608" />
