@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" agent="Codex">
+  <diagram id="research-flow" name="Page-1">
+    <mxGraphModel dx="2044" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1200" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-61" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;fontColor=#1f1f1f;" value="从四个研究方向到第三章、第四章主方法确定的收敛过程" vertex="1">
+          <mxGeometry height="40" width="1460" x="1322.4000244140625" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="内容可信度、知识/目标对齐、证据归因、评价可靠性&lt;br&gt;目标：明确第三章做什么、第四章做什么，以及两章如何递进衔接" vertex="1">
+          <mxGeometry height="80" width="640" x="1734" y="688" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=14;align=center;spacingLeft=12;" value="先设定筛选约束&lt;br&gt;1. 第三章必须为第四章提供基础，不能并列平铺&lt;br&gt;2. 论文重心必须是方法问题，而不是应用场景描述&lt;br&gt;3. 每一章都要解决一个具体局限，边界不能重叠" vertex="1">
+          <mxGeometry height="95" width="470" x="1818" y="798" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="第一轮：四个方向并行扫描，不急着定方法，先判断每个方向在整篇论文中适合扮演什么角色" vertex="1">
+          <mxGeometry height="60" width="650" x="1728" y="933" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" value="方向一：内容可信度&#xa;关注生成内容是否真实、是否减少幻觉、是否可验证纠错" vertex="1">
+          <mxGeometry height="95" width="358.4" x="1223" y="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" value="方向二：知识 / 目标对齐&#xa;关注说什么、怎么组织、是否偏离任务目标" vertex="1">
+          <mxGeometry height="95" width="272.4" x="1627" y="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="方向三：证据归因&#xa;关注 claim 与 evidence 能否显式绑定、是否便于核验" vertex="1">
+          <mxGeometry height="95" width="342.4" x="1970" y="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" value="方向四：评价可靠性&#xa;关注评测是否稳定、可复核、与人评是否一致" vertex="1">
+          <mxGeometry height="95" width="292.4" x="2380" y="1048" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-69" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=14;" value="第二轮：在“章节必须递进”的约束下，哪条主线最顺？" vertex="1">
+          <mxGeometry height="130" width="360" x="1687.4000244140625" y="1198" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" value="知识 / 目标对齐不作为独立主章&#xa;原因：概念容易发散，且与证据组织、规划模块边界重叠&#xa;最终处理：退为第三章中的支撑模块" vertex="1">
+          <mxGeometry height="110" width="430" x="962.4000244140625" y="1368" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;" value="保留的最强主线：证据归因 → 内容可信度&#xa;原因：先构建可核验结构，再在该结构上做可信度评估与优化，逻辑最干净，章节边界也最清楚" vertex="1">
+          <mxGeometry height="95" width="510" x="1613" y="1363" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" value="评价可靠性不作为独立主章&#xa;原因：更像元评测，容易把论文重心带偏&#xa;最终处理：作为第三章、第四章共同的实验协议与约束条件" vertex="1">
+          <mxGeometry height="110" width="430" x="2352.4000244140625" y="1368" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-73" parent="1" style="swimlane;html=1;rounded=1;startSize=42;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=15;" value="第三章问题锁定&#xa;在‘证据归因’问题簇内部继续收缩" vertex="1">
+          <mxGeometry height="510" width="890" x="932.4000244140625" y="1548" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-74" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="候选 1&#xa;生成后证据归因修订&#xa;代表：RARR" vertex="1">
+          <mxGeometry height="90" width="235" x="35" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-75" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="候选 2&#xa;查询式局部归因接口&#xa;代表：LAQuer" vertex="1">
+          <mxGeometry height="90" width="235" x="325" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-76" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="候选 3&#xa;生成期细粒度归因结构&#xa;代表：Attribute First、ReClaim" vertex="1">
+          <mxGeometry height="90" width="235" x="615" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-77" parent="3KsziyiJGjYwYtRfmXxj-73" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="第三章最适合锁定哪一类问题？" vertex="1">
+          <mxGeometry height="120" width="290" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-78" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="第三章问题锁定结果&#xa;优先选择‘生成期细粒度证据归因结构’&#xa;原因：它直接产出可核验中间结构，并且不会把修订、保留性和可信度判断揉在一起" vertex="1">
+          <mxGeometry height="85" width="530" x="180" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-79" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf3ff;strokeColor=#6c8ebf;fontSize=13;align=left;spacingLeft=10;" value="方法抓手继续比较&#xa;Attribute First：先选证据 span，再按句子规划生成&#xa;ReClaim：reference 与 claim 交错生成，并用约束解码保证引用真实可追溯" vertex="1">
+          <mxGeometry height="95" width="710" x="90" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-80" parent="3KsziyiJGjYwYtRfmXxj-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2f5597;fontSize=14;fontStyle=1;" value="第三章主方法最终落点：ReClaim&#xa;原因：它把 reference-claim pair 直接做成生成单元，结构更显式，citation 更细，后续也更容易继续压到 claim / span 级接口" vertex="1">
+          <mxGeometry height="95" width="620" x="135" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-81" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="153" y="162" />
+              <mxPoint x="445" y="162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-82" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="162" />
+              <mxPoint x="445" y="162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-83" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="733" y="162" />
+              <mxPoint x="445" y="162" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-84" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-78" value="锁定问题簇">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-85" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-86" edge="1" parent="3KsziyiJGjYwYtRfmXxj-73" source="3KsziyiJGjYwYtRfmXxj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-80" value="继续方法选型">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-87" parent="1" style="swimlane;html=1;rounded=1;startSize=42;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="第四章问题锁定&#xa;在‘内容可信度’问题簇内部继续收缩" vertex="1">
+          <mxGeometry height="510" width="890" x="1882.4000244140625" y="1548" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-88" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 1&#xa;atomic facts / verifiable claims 评测链条&#xa;代表：FActScore、VeriScore" vertex="1">
+          <mxGeometry height="90" width="240" x="35" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-89" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 2&#xa;claim extraction 质量控制&#xa;代表：Claimify" vertex="1">
+          <mxGeometry height="90" width="240" x="325" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-90" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 3&#xa;高效、稳健的长文本可信度评测管线&#xa;代表：FaStFact" vertex="1">
+          <mxGeometry height="90" width="240" x="615" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-91" parent="3KsziyiJGjYwYtRfmXxj-87" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="第四章最适合锁定哪一类问题？" vertex="1">
+          <mxGeometry height="120" width="290" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-92" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="第四章问题锁定结果&#xa;优先选择‘高效、稳健的长文本可信度评估’&#xa;原因：它正面回答第四章的核心矛盾，即如何评得准、评得稳、评得动" vertex="1">
+          <mxGeometry height="85" width="540" x="176" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-93" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff0f0;strokeColor=#b85450;fontSize=13;align=left;spacingLeft=10;" value="方法抓手继续比较&#xa;FActScore：atomic facts 起点&#xa;VeriScore：verifiable claims 升级&#xa;Claimify：前置环节质量治理&#xa;FaStFact：效率、证据充分性、人评对齐和 score design 一体推进" vertex="1">
+          <mxGeometry height="110" width="710" x="90" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-94" parent="3KsziyiJGjYwYtRfmXxj-87" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#7f1d1d;fontSize=14;fontStyle=1;" value="第四章主方法最终落点：FaStFact 式&#xa;原因：它不是只给出 factuality 分数，而是同时提升评测效率、证据充分性、与人评的一致性和实际可扩展性" vertex="1">
+          <mxGeometry height="95" width="620" x="135" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-95" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="172" />
+              <mxPoint x="445" y="172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-96" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-97" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="172" />
+              <mxPoint x="445" y="172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-98" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-92" value="锁定问题簇">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-99" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-100" edge="1" parent="3KsziyiJGjYwYtRfmXxj-87" source="3KsziyiJGjYwYtRfmXxj-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-94" value="继续方法选型">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;spacingLeft=12;" value="两章最终通过这些接口变量接起来&#xa;内容单元：sentence / claim / span&#xa;对齐单元：reference-claim pair、citation / evidence alignment&#xa;状态单元：supported、partial support、conflict、inconclusive、[NA]&#xa;成本单元：citation length、verification time、evidence sufficiency、评估调用次数" vertex="1">
+          <mxGeometry height="125" width="1030" x="1337.4000244140625" y="2271" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;" value="最终形成的论文叙事&#xa;第三章先用 ReClaim 类方法构建‘细粒度、可核验、可传递’的证据归因结构；第四章再用 FaStFact 式框架把长文本可信度评估做得更高效、更稳健、可扩展" vertex="1">
+          <mxGeometry height="85" width="1210" x="1247.4000244140625" y="2441" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-103" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-104" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-105" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2052" y="1020" />
+              <mxPoint x="1390" y="1020" />
+              <mxPoint x="1390" y="1051" />
+            </Array>
+            <mxPoint x="1390" y="1051" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-106" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-107" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-108" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2054" y="1020" />
+              <mxPoint x="2526" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-109" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;exitX=0.652;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" target="3KsziyiJGjYwYtRfmXxj-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="1144" />
+              <mxPoint x="1380" y="1170" />
+              <mxPoint x="1867" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-110" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-111" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-112" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2572" y="1170" />
+              <mxPoint x="1867" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-113" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-70" value="降为支撑模块">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1472.4000244140625" y="1338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-114" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-71" value="保留主线">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-115" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-72" value="降为评估约束">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2262.4000244140625" y="1338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-116" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1612.4000244140625" y="1508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-117" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2132.4000244140625" y="1508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-118" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1387.4000244140625" y="2188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-119" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2332.4000244140625" y="2188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3KsziyiJGjYwYtRfmXxj-120" edge="1" parent="1" source="3KsziyiJGjYwYtRfmXxj-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="3KsziyiJGjYwYtRfmXxj-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
