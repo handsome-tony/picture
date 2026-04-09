@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="XVwCY11b04gqVuWw0Msk">
-    <mxGraphModel dx="1444" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,58 +133,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-61" edge="1" parent="1" source="cdKcDxsXoZ0XK-X5CE99-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-78" parent="1" style="swimlane;html=1;rounded=1;startSize=52;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" value="第四章问题锁定&#xa;在‘内容可信度’问题簇内部继续收缩" vertex="1">
-          <mxGeometry height="552" width="890" x="3080" y="1150" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-79" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 1&#xa;atomic facts / verifiable claims 评测链条&#xa;代表：FActScore、VeriScore" vertex="1">
-          <mxGeometry height="90" width="240" x="35" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-80" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 2&#xa;claim extraction 质量控制&#xa;代表：Claimify" vertex="1">
-          <mxGeometry height="90" width="240" x="325" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-81" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="候选 3&#xa;高效、稳健的长文本可信度评测管线&#xa;代表：FaStFact" vertex="1">
-          <mxGeometry height="90" width="240" x="615" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-82" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;fontSize=13;" value="第四章最适合锁定哪一类问题？" vertex="1">
-          <mxGeometry height="120" width="290" x="300" y="190" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-83" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="第四章问题锁定结果&#xa;优先选择‘高效、稳健的长文本可信度评估’&#xa;原因：它正面回答第四章的核心矛盾，即如何评得准、评得稳、评得动" vertex="1">
-          <mxGeometry height="85" width="540" x="176" y="345" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-84" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff0f0;strokeColor=#b85450;fontSize=13;align=center;spacingLeft=10;" value="方法抓手继续比较&lt;br&gt;FActScore：atomic facts 起点&lt;br&gt;VeriScore：verifiable claims 升级&lt;br&gt;Claimify：前置环节质量治理&lt;br&gt;FaStFact：效率、证据充分性、人评对齐和 score design 一体推进" vertex="1">
-          <mxGeometry height="110" width="460" x="216" y="455" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-85" parent="cdKcDxsXoZ0XK-X5CE99-78" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#7f1d1d;fontSize=14;fontStyle=1;" value="第四章主方法最终落点：FaStFact 式&#xa;原因：它不是只给出 factuality 分数，而是同时提升评测效率、证据充分性、与人评的一致性和实际可扩展性" vertex="1">
-          <mxGeometry height="95" width="620" x="135" y="585" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-86" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-79" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-82">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="155" y="172" />
-              <mxPoint x="445" y="172" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-87" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-88" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-81" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-82">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="735" y="172" />
-              <mxPoint x="445" y="172" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-89" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-83" value="锁定问题簇">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-90" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cdKcDxsXoZ0XK-X5CE99-91" edge="1" parent="cdKcDxsXoZ0XK-X5CE99-78" source="cdKcDxsXoZ0XK-X5CE99-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jettySize=auto;html=1;" target="cdKcDxsXoZ0XK-X5CE99-85" value="继续方法选型">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cdKcDxsXoZ0XK-X5CE99-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;fontSize=13;" value="候选 1&#xa;生成后证据归因修订&#xa;代表：RARR" vertex="1">
