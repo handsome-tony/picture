@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="v3Gj1AaOPX39dpO7LtR0">
+    <mxGraphModel dx="1202" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=SimSun;" value="从课程问题出发，以文本挖掘提效，以案例库建设为中介，以教学实践验证为落点" vertex="1">
+          <mxGeometry height="60" width="820" x="490" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="100" width="1010" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="110" width="1010" x="430" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="110" width="1010" x="430" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="110" width="1010" x="430" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=classic;entryX=0.466;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="901.0114942528737" y="372" as="sourcePoint" />
+            <mxPoint x="901.6599999999999" y="399.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="898" y="500" as="sourcePoint" />
+            <mxPoint x="898" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="902" y="640" as="sourcePoint" />
+            <mxPoint x="902" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;endArrow=classic;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="901" y="780" as="sourcePoint" />
+            <mxPoint x="901" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-10" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff9b2;gradientColor=#fff2a1;strokeColor=#d6b656;shadow=1;size=20;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fontFamily=SimSun;" value="课程分析层" vertex="1">
+          <mxGeometry height="60" width="131" x="280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-11" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff9b2;gradientColor=#fff2a1;strokeColor=#d6b656;shadow=1;size=20;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fontFamily=SimSun;" value="案例挖掘层" vertex="1">
+          <mxGeometry height="60" width="131" x="280" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff9b2;gradientColor=#fff2a1;strokeColor=#d6b656;shadow=1;size=20;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fontFamily=SimSun;" value="案例库建设层" vertex="1">
+          <mxGeometry height="60" width="131" x="280" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff9b2;gradientColor=#fff2a1;strokeColor=#d6b656;shadow=1;size=20;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;fontFamily=SimSun;" value="教学应用层" vertex="1">
+          <mxGeometry height="60" width="131" x="280" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="梳理《新时代中国特色社会主义理论与实践》等课程知识点" vertex="1">
+          <mxGeometry height="70" width="280" x="440" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="识别教学重点、难点与学生关注点" vertex="1">
+          <mxGeometry height="70" width="280" x="740" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="明确哪些知识点更需要案例支撑，哪些主题适合嵌入涉农实践案例" vertex="1">
+          <mxGeometry height="70" width="380" x="1040" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="围绕农业强国、乡村振兴、生态文明、粮食安全等主题搜集文本" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="来源：新华网、人民网、央视网、中国日报网及相关政策文本" vertex="1">
+          <mxGeometry height="70" width="300" x="751" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="方法：分词、关键词提取、主题聚类；教师团队负责教学价值与政治导向研判" vertex="1">
+          <mxGeometry height="80" width="360" x="1067" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="对案例文本进行数据清洗、标签归类与结构化整理" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="建立多维标签体系：来源、主题、课程章节、课堂环节、思政要点、讨论问题" vertex="1">
+          <mxGeometry height="80" width="330" x="753" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="形成案例资源与课程知识点、教学主题、育人目标之间的系统对应" vertex="1">
+          <mxGeometry height="70" width="330" x="1099" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="形成案例教学方案、讨论设计、学习任务单和教学反思总结" vertex="1">
+          <mxGeometry height="70" width="300" x="440" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="在校内试点基础上分析案例使用效果，收集课堂反馈" vertex="1">
+          <mxGeometry height="70" width="300" x="757" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="q3eoh9_qBjh10AlDB3Ao-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=18;align=center;verticalAlign=middle;fontFamily=SimSun;" value="修订案例库与教学方案，沉淀可推广的应用经验" vertex="1">
+          <mxGeometry height="70" width="360" x="1070" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
