@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Codex">
   <diagram id="tech-route-v06" name="技术路线图">
-    <mxGraphModel dx="4132" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NcED_zyKQgXepA5quGbi-117" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;whiteSpace=wrap;" value="面向知识对齐的可验证长文本生成与可信度评估技术路线图" vertex="1">
-          <mxGeometry height="44" width="980" x="204.00334859212256" y="150.00001017252612" as="geometry" />
-        </mxCell>
         <mxCell id="NcED_zyKQgXepA5quGbi-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=26;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="提出问题" vertex="1">
           <mxGeometry height="82" width="190" x="30.003348592122563" y="265.0000101725261" as="geometry" />
         </mxCell>
