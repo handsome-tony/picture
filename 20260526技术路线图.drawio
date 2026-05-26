@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Codex">
   <diagram id="tech-route-v06" name="技术路线图">
-    <mxGraphModel dx="2951" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,97 +22,97 @@
         <mxCell id="NcED_zyKQgXepA5quGbi-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=26;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="研究结论" vertex="1">
           <mxGeometry height="82" width="190" x="30.003348592122563" y="1468.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="168" width="1010" x="323.00334859212256" y="222.00001017252612" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="226" width="1010" x="323.00334859212256" y="426.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="204" width="1010" x="324.00000000000006" y="686" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="198" width="1010" x="324.00000000000006" y="922" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="240" width="1010" x="324.00000000000006" y="1152" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;dashed=1;dashPattern=10 7;" value="" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=3;dashed=1;" value="" vertex="1">
           <mxGeometry height="170" width="1010" x="324.00000000000006" y="1428" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="研究背景" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;研究背景&lt;/b&gt;" vertex="1">
           <mxGeometry height="68" width="210" x="420.00334859212256" y="254.00001017252612" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="研究问题" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;研究问题&lt;/b&gt;" vertex="1">
           <mxGeometry height="68" width="250" x="704.0033485921226" y="254.00001017252612" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="研究目标" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;研究目标&lt;/b&gt;" vertex="1">
           <mxGeometry height="68" width="210" x="1028.0033485921226" y="254.00001017252612" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-133" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;whiteSpace=wrap;" value="长文本生成存在事实错误、引用错配、回答义务覆盖不足与可信度难评估等问题" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-133" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;whiteSpace=wrap;" value="&lt;b&gt;长文本生成存在事实错误、引用错配、回答义务覆盖不足与可信度难评估等问题&lt;/b&gt;" vertex="1">
           <mxGeometry height="34" width="760" x="444.00334859212256" y="342.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="证据归因方法梳理" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;证据归因方法梳理&lt;/b&gt;" vertex="1">
           <mxGeometry height="58" width="340" x="424.00334859212256" y="452.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="内容可信度评估梳理" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;内容可信度评估梳理&lt;/b&gt;" vertex="1">
           <mxGeometry height="58" width="330" x="908.0033485921226" y="452.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F8FAFC;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="生成后归因修订" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;生成后归因修订&lt;/b&gt;" vertex="1">
           <mxGeometry height="72" width="162.67" x="351.3300000000001" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F8FAFC;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="atomic命题级评估" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;atomic命题级评估&lt;/b&gt;" vertex="1">
           <mxGeometry height="72" width="180" x="876" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F8FAFC;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="verifiable claims可证实级评估" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;verifiable claims可证实级评估&lt;/b&gt;" vertex="1">
           <mxGeometry height="72" width="180" x="1090" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#EFF6FF;strokeColor=#1D4ED8;strokeWidth=2.5;fontSize=24;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="可验证长文本生成方法构建" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="可验证长文本生成方法构建" vertex="1">
           <mxGeometry height="64" width="650" x="502.0033485921226" y="720.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="问题锚点识别&lt;div&gt;Anchor/Cot&lt;/div&gt;" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;问题锚点识别&lt;/b&gt;&lt;div&gt;&lt;b&gt;Anchor/Cot&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="170" x="405.00334859212256" y="802.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="回答义务分解&lt;div&gt;burden units&lt;/div&gt;" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;回答义务分解&lt;/b&gt;&lt;div&gt;&lt;b&gt;burden units&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="170" x="611.0033485921226" y="802.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="命题投影&lt;div&gt;claim units&lt;/div&gt;" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;命题投影&lt;/b&gt;&lt;div&gt;&lt;b&gt;claim units&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="180" x="817.0033485921226" y="802.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="证据绑定&lt;div&gt;evidence-bound&lt;/div&gt;" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;证据绑定&lt;/b&gt;&lt;div&gt;&lt;b&gt;evidence-bound&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="170" x="1033.0033485921226" y="802.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F0FDF4;strokeColor=#15803D;strokeWidth=2.5;fontSize=24;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="基于命题-证据结构的可信度评估" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="基于命题-证据结构的可信度评估" vertex="1">
           <mxGeometry height="64" width="650" x="502.0033485921226" y="957.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="支持状态判断" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;支持状态判断&lt;/b&gt;" vertex="1">
           <mxGeometry height="58" width="220" x="424.00334859212256" y="1041.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="证据充分性诊断" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;证据充分性诊断&lt;/b&gt;" vertex="1">
           <mxGeometry height="58" width="220" x="714.0033485921226" y="1041.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="可信度聚合" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;可信度聚合&lt;/b&gt;" vertex="1">
           <mxGeometry height="58" width="220" x="1004.0033485921226" y="1041.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFBEB;strokeColor=#B45309;strokeWidth=2.5;fontSize=24;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="方法有效性验证与应用场景验证" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;" value="方法有效性验证与应用场景验证" vertex="1">
           <mxGeometry height="60" width="760" x="448.00334859212256" y="1171.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="公开长答案问答实验&lt;br&gt;引用质量与答案质量" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;公开长答案问答实验&lt;br&gt;引用质量与答案质量&lt;/b&gt;" vertex="1">
           <mxGeometry height="64" width="230" x="420.00334859212256" y="1251.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="对照与消融实验&lt;br&gt;模块作用与边界分析" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;对照与消融实验&lt;br&gt;模块作用与边界分析&lt;/b&gt;" vertex="1">
           <mxGeometry height="64" width="230" x="696.0033485921226" y="1251.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="课程思政案例验证&lt;br&gt;事实、专业、教学评价" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="&lt;b&gt;课程思政案例验证&lt;br&gt;事实、专业、教学评价&lt;/b&gt;" vertex="1">
           <mxGeometry height="64" width="250" x="972.0033485921226" y="1251.0000101725261" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFBEB;strokeColor=#B45309;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="形成实验结果、案例材料与方法改进依据" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;形成实验结果、案例材料与方法改进依据&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="410" x="606.6700000000001" y="1338" as="geometry" />
         </mxCell>
         <mxCell id="NcED_zyKQgXepA5quGbi-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontStyle=1;fontColor=#111827;align=center;verticalAlign=middle;" value="面向知识对齐的可验证长文本生成与可信度评估方法" vertex="1">
           <mxGeometry height="58" width="760" x="450.00334859212256" y="1445.0000101725263" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="硕士学位论文与相关成果材料" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#111827;strokeWidth=2.5;fontSize=24;fontColor=#111827;align=center;verticalAlign=middle;" value="&lt;b&gt;硕士学位论文与相关成果材料&lt;/b&gt;" vertex="1">
           <mxGeometry height="46" width="456" x="602.0033485921226" y="1531.0000101725263" as="geometry" />
         </mxCell>
         <mxCell id="NcED_zyKQgXepA5quGbi-160" edge="1" parent="1" source="NcED_zyKQgXepA5quGbi-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#111827;strokeWidth=2.5;endArrow=block;endFill=1;" target="NcED_zyKQgXepA5quGbi-124" value="">
@@ -183,7 +183,7 @@
         <mxCell id="NcED_zyKQgXepA5quGbi-188" edge="1" parent="1" source="NcED_zyKQgXepA5quGbi-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111827;strokeWidth=2.5;endArrow=block;endFill=1;" target="NcED_zyKQgXepA5quGbi-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-189" edge="1" parent="1" source="NcED_zyKQgXepA5quGbi-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#7C3AED;strokeWidth=2.2;dashed=1;endArrow=block;endFill=1;fontSize=18;fontColor=#7C3AED;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="NcED_zyKQgXepA5quGbi-145" value="证据刷新 / 命题改写 / 流程迭代">
+        <mxCell id="NcED_zyKQgXepA5quGbi-189" edge="1" parent="1" source="NcED_zyKQgXepA5quGbi-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#7C3AED;strokeWidth=2.2;dashed=1;endArrow=block;endFill=1;fontSize=18;fontColor=#7C3AED;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="NcED_zyKQgXepA5quGbi-145" value="&lt;b&gt;证据刷新 / 命题改写 / 流程迭代&lt;/b&gt;">
           <mxGeometry relative="1" x="0.2522" y="-20" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
@@ -194,10 +194,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F8FAFC;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="生成前结构" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;生成前结构&lt;/b&gt;" vertex="1">
           <mxGeometry height="72" width="136.67" x="525.6700000000001" y="548" as="geometry" />
         </mxCell>
-        <mxCell id="NcED_zyKQgXepA5quGbi-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F8FAFC;strokeColor=#111827;strokeWidth=2.5;fontSize=20;fontColor=#374151;align=center;verticalAlign=middle;" value="生成中交替生成" vertex="1">
+        <mxCell id="NcED_zyKQgXepA5quGbi-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2.5;fontSize=20;align=center;verticalAlign=middle;" value="&lt;b&gt;生成中交替生成&lt;/b&gt;" vertex="1">
           <mxGeometry height="72" width="150" x="683.6700000000001" y="548" as="geometry" />
         </mxCell>
         <mxCell id="NcED_zyKQgXepA5quGbi-193" edge="1" parent="1" source="NcED_zyKQgXepA5quGbi-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#111827;strokeWidth=2.5;endArrow=block;endFill=1;exitX=0.52;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NcED_zyKQgXepA5quGbi-136">
