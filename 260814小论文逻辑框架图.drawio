@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram name="图1 逻辑框架图" id="Jfbt1AzU2tjKgrrCkogI">
-    <mxGraphModel dx="2363" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="xUfcX8xYs65VpRMNz7Ck-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#76A96F;" value="" vertex="1">
           <mxGeometry height="220.75" width="225.83" x="711.34" y="919.25" as="geometry" />
-        </mxCell>
-        <mxCell id="xUfcX8xYs65VpRMNz7Ck-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=30;fontStyle=1;" value="图 1. BAEC-G: Burden-Aligned Evidence-Claim Grounding" vertex="1">
-          <mxGeometry height="42" width="1120" x="1179.9966666666667" y="580" as="geometry" />
         </mxCell>
         <mxCell id="xUfcX8xYs65VpRMNz7Ck-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=18;fontStyle=1;" value="Running Example" vertex="1">
           <mxGeometry height="30" width="208" x="721.1666666666667" y="697.5" as="geometry" />
