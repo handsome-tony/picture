@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="6">
   <diagram name="图1 逻辑框架图" id="Jfbt1AzU2tjKgrrCkogI">
-    <mxGraphModel dx="1723" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
         <mxCell id="xUfcX8xYs65VpRMNz7Ck-31" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Times New Roman;fontSize=18;fontStyle=1;" value="Evidence Support Binding" vertex="1">
           <mxGeometry height="30" width="270" x="1373.1666666666667" y="690.5" as="geometry" />
         </mxCell>
-        <mxCell id="xUfcX8xYs65VpRMNz7Ck-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6d6d6;fontFamily=Times New Roman;fontSize=18;fontStyle=1;" value="Sᵢ = Bind(bᵢ, D)" vertex="1">
+        <mxCell id="xUfcX8xYs65VpRMNz7Ck-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6d6d6;fontFamily=Times New Roman;fontSize=18;fontStyle=1;" value="Sᵢ&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sup&gt;cand&lt;/sup&gt;&lt;/span&gt;&amp;nbsp;= Bind(bᵢ, D)" vertex="1">
           <mxGeometry height="34" width="200" x="1391.1666666666667" y="739" as="geometry" />
         </mxCell>
         <mxCell id="xUfcX8xYs65VpRMNz7Ck-33" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=13;fontStyle=1;" value="Answer Burdens B" vertex="1">
