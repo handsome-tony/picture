@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="k_sSzLCMjABBYoI5cLP4">
-    <mxGraphModel dx="1216" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
         <mxCell id="uncovered_record" parent="1" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#FFB86D;strokeWidth=1;fontColor=#3E342B;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;" value="未覆盖要点记录" vertex="1">
           <mxGeometry height="45" width="98" x="1047" y="419" as="geometry" />
         </mxCell>
-        <mxCell id="q_branch_to_m1" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#1D43AE;strokeWidth=1.2;" value="">
+        <mxCell id="q_branch_to_m1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;endFill=0;endSize=7;strokeColor=#1D43AE;strokeWidth=1.2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="question" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="144" y="147" as="sourcePoint" />
             <mxPoint x="144" y="167" as="targetPoint" />
@@ -184,13 +184,13 @@
             <mxPoint x="424" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge_bi_m3" edge="1" parent="1" source="burdens" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#352393;strokeWidth=1.2;entryX=-0.003;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="m3_panel" value="">
+        <mxCell id="edge_bi_m3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#352393;strokeWidth=1.2;entryX=-0.003;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" target="m3_panel" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="301.5" />
               <mxPoint x="310" y="184.5" />
             </Array>
-            <mxPoint x="485" y="184.76" as="sourcePoint" />
+            <mxPoint x="310" y="312" as="sourcePoint" />
             <mxPoint x="578" y="184.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -198,24 +198,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="358.00000000000006" as="sourcePoint" />
             <mxPoint x="605" y="358.00000000000006" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lower_branch_repair" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2448C7;strokeWidth=1.2;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="618" y="320" />
-            </Array>
-            <mxPoint x="618" y="415" as="sourcePoint" />
-            <mxPoint x="631" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lower_branch_fallback" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2448C7;strokeWidth=1.2;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="618" y="422" />
-            </Array>
-            <mxPoint x="618" y="415" as="sourcePoint" />
-            <mxPoint x="631" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="edge_initial_repair" edge="1" parent="1" source="initial" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#4D7195;strokeWidth=1.2;exitX=0.497;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="repair" value="">
