@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="k_sSzLCMjABBYoI5cLP4">
-    <mxGraphModel dx="1034" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,17 +255,7 @@
             <mxPoint x="862" y="315.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge_fallback_accepted" edge="1" parent="1" source="fallback" style="edgeStyle=none;rounded=0;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#C2BDD9;strokeWidth=1;exitX=0.999;exitY=0.59;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;" target="accepted" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="848" y="406" />
-              <mxPoint x="848" y="326" />
-            </Array>
-            <mxPoint x="808.9139999999999" y="399.63" as="sourcePoint" />
-            <mxPoint x="860" y="326" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="edge_result_uncovered" edge="1" parent="1" source="accepted" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#A7A9AF;strokeWidth=1.1;exitX=0.446;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.541;entryY=0.005;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" target="uncovered" value="">
+        <mxCell id="edge_result_uncovered" edge="1" parent="1" source="fallback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#A7A9AF;strokeWidth=1.1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.541;entryY=0.005;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" target="uncovered" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900.858" y="373.8899999999999" as="sourcePoint" />
             <mxPoint x="879" y="419" as="targetPoint" />
@@ -312,6 +302,9 @@
         </mxCell>
         <mxCell id="sO1i1RmILmkK90WkpQ_I-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 112, 192); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;问题规划与证据准备&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="210" x="180" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="wgryvt9ccsHA5Q4XeWTl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#253B52;" value="仍未通过" vertex="1">
+          <mxGeometry height="19" width="57" x="845" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
