@@ -286,7 +286,17 @@
           <mxGeometry height="50" width="210" x="180" y="87" as="geometry" />
         </mxCell>
         <mxCell id="wgryvt9ccsHA5Q4XeWTl-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" value="仍未通过" vertex="1">
-          <mxGeometry height="19" width="57" x="845" y="380" as="geometry" />
+          <mxGeometry height="19" width="57" x="873.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="FBTCfyAOC_Cimz1tJ9AR-1" edge="1" parent="1" source="fallback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;endSize=6;strokeColor=#000000;strokeWidth=1;entryX=0.004;entryY=0.797;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.202;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontColor=#000000;exitPerimeter=0;" target="accepted" value="">
+          <mxGeometry relative="1" x="-0.3414" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="380.3" />
+              <mxPoint x="850" y="325" />
+            </Array>
+            <mxPoint x="783.9999999999998" y="348" as="sourcePoint" />
+            <mxPoint x="862" y="363.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
